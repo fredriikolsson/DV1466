@@ -1,0 +1,2 @@
+1a cat test1data.txt | grep -o '<[0-9]\{7\}>[0-9]\{7\}<[0-9]\{7\}>[0-9]\{7\}'
+1b Seven digit

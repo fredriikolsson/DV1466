@@ -1,0 +1,80 @@
+[97mfoo[97mMay[91m(paris){stockholm}[97m3.1415[91m(tokyo){paris}[97mJun[97m 
+[97m100000[97mphi[91m(stockholm){tokyo}[97m2.8[91m(stockholm){tokyo}[97mBlue[97mfoo
+[97m010011[97m'[91m(stockholm){stockholm}[97mchi[91m(stockholm){tokyo}[97m$$$[97mtao
+[97mWHITE[97m`[91m(tokyo){paris}[97mblah[91m(stockholm){tokyo}[97mtao[97m100000
+[97m000101[97mBLACK[91m(paris){stockholm}[97m001111[91m(paris){paris}[97m000000[97m111000
+[97mNILL[97m$$[91m(stockholm){stockholm}[97m100010[91m(stockholm){tokyo}[97mpi[97mVOID
+[97mBLACK[97mfubar[91m(paris){tokyo}[97mVOID[91m(paris){paris}[97mBLACK[97mSat
+[97m3.14153[97mBlue[91m(stockholm){tokyo}[97mWHITE[91m(paris){paris}[97mWHITE[97mOrange
+[97mBLACK[97mphi[91m(paris){paris}[97mfoo[91m(stockholm){paris}[97mVOID[97m"
+[97mWed[97mBLACK[91m(stockholm){stockholm}[97m [91m(paris){stockholm}[97m'[97mNILL
+[97mVOID[97m$$$[91m(stockholm){tokyo}[97m3.1415[91m(stockholm){stockholm}[97m101001[97mfubar
+[97m3.14[97mfoo[91m(tokyo){stockholm}[97m2.8[91m(stockholm){tokyo}[97m2.8[97mfoo
+[97m000010[97m3.14[91m(stockholm){stockholm}[97m"[91m(tokyo){stockholm}[97mMar[97m$$
+[97mBLACK[97mtao[91m(paris){tokyo}[97mSun[91m(stockholm){paris}[97mBLACK[97mBLACK
+[97m[97m$$$[91m(stockholm){tokyo}[97mPurple[91m(stockholm){tokyo}[97mSun[97mJan
+[97mOrange[97mblah[91m(stockholm){tokyo}[97m110011[91m(paris){tokyo}[97mWed[97mWHITE
+[97mNULL[97mblah[91m(tokyo){paris}[97mNULL[91m(stockholm){tokyo}[97m`[97m$$$
+[97mBlue[97m101111[91m(stockholm){stockholm}[97mMon[91m(tokyo){tokyo}[97mtao[97mOrange
+[97mBlue[97mVOID[91m(paris){stockholm}[97mNULL[91m(paris){stockholm}[97mMon[97mRed
+[97mtao[97m [91m(paris){stockholm}[97m011101[91m(tokyo){paris}[97mOct[97m011101
+[97mtao[97m`[91m(tokyo){tokyo}[97mNULL[91m(tokyo){tokyo}[97m[97mfoo
+[97mBLACK[97mNILL[91m(tokyo){stockholm}[97mAug[91m(paris){stockholm}[97m'[97mVOID
+[97mWHITE[97m010010[91m(tokyo){stockholm}[97mBlue[91m(stockholm){paris}[97m"[97mOrange
+[97m`[97m'[91m(paris){paris}[97m [91m(tokyo){paris}[97m000110[97m000011
+[97mBLACK[97m[91m(paris){tokyo}[97mTue[91m(stockholm){stockholm}[97m"[97m
+[97mNILL[97mYellow[91m(tokyo){paris}[97mGreen[91m(paris){stockholm}[97m$$$[97m$$
+[97mWed[97m [91m(tokyo){stockholm}[97mphi[91m(paris){paris}[97mNULL[97mVOID
+[97mJul[97mNULL[91m(tokyo){stockholm}[97m [91m(tokyo){stockholm}[97mSat[97m2.8
+[97mblah[97m [91m(tokyo){stockholm}[97mNILL[91m(paris){paris}[97m110100[97m
+[97mDec[97mYellow[91m(tokyo){tokyo}[97mblah[91m(stockholm){paris}[97mfoo[97m110000
+[97m [97m001100[91m(tokyo){tokyo}[97m [91m(paris){tokyo}[97mWHITE[97mVOID
+[97mWHITE[97m$$[91m(tokyo){tokyo}[97mSep[91m(tokyo){tokyo}[97m2.8[97m$$$
+[97mFri[97mpi[91m(tokyo){stockholm}[97m"[91m(stockholm){paris}[97mNov[97m
+[97mBlue[97m[91m(stockholm){paris}[97mNULL[91m(paris){paris}[97mNILL[97mTue
+[97mPurple[97mJun[91m(tokyo){stockholm}[97mVOID[91m(paris){paris}[97m001011[97m'
+[97mBlue[97mchi[91m(tokyo){stockholm}[97mSat[91m(tokyo){paris}[97m2.8[97mApr
+[97m'[97mBLACK[91m(tokyo){stockholm}[97m001101[91m(tokyo){paris}[97m`[97mblah
+[97m$$[97mJul[91m(tokyo){tokyo}[97mMon[91m(stockholm){paris}[97mDec[97mWHITE
+[97mJan[97mphi[91m(paris){stockholm}[97mMar[91m(stockholm){tokyo}[97m [97mApr
+[97m'[97m$$[91m(paris){paris}[97m3.1415[91m(tokyo){stockholm}[97mVOID[97mVOID
+[97mDec[97mNILL[91m(stockholm){tokyo}[97mTue[91m(stockholm){paris}[97mWHITE[97m"
+[97m[97mfubar[91m(tokyo){stockholm}[97m [91m(tokyo){stockholm}[97m011101[97m
+[97mVOID[97mNULL[91m(stockholm){paris}[97mpi[91m(paris){stockholm}[97mNILL[97mWHITE
+[97mSun[97m001101[91m(stockholm){paris}[97mSat[91m(paris){paris}[97mpi[97mThu
+[97m2.8[97mNULL[91m(stockholm){paris}[97mDec[91m(tokyo){stockholm}[97mtao[97mchi
+[97mfoo[97mGreen[91m(stockholm){stockholm}[97mWHITE[91m(stockholm){tokyo}[97mfoo[97m001101
+[97m111111[97mFri[91m(paris){stockholm}[97mNILL[91m(stockholm){tokyo}[97m'[97m$$$
+[97mTue[97mMar[91m(stockholm){tokyo}[97m100001[91m(paris){tokyo}[97mNULL[97m3.14153
+[97mBlue[97m`[91m(stockholm){tokyo}[97mNILL[91m(paris){stockholm}[97mWHITE[97m$$$
+[97m3.1415[97mNULL[91m(stockholm){tokyo}[97m$[91m(stockholm){tokyo}[97mVOID[97mPurple
+[97mblah[97m3.14[91m(tokyo){tokyo}[97m$$[91m(paris){paris}[97m3.1415[97mphi
+[97m2.8[97mFri[91m(tokyo){paris}[97mSat[91m(stockholm){tokyo}[97mblah[97m'
+[97mRed[97mWHITE[91m(tokyo){paris}[97mFri[91m(tokyo){stockholm}[97m [97m100110
+[97m101000[97m'[91m(paris){paris}[97mBLACK[91m(stockholm){tokyo}[97mBLACK[97mfoo
+[97m$$[97mchi[91m(stockholm){tokyo}[97m'[91m(stockholm){tokyo}[97mWHITE[97m
+[97mRed[97mDec[91m(stockholm){stockholm}[97m001111[91m(tokyo){tokyo}[97mfubar[97mFeb
+[97mfoo[97mFri[91m(tokyo){stockholm}[97mJan[91m(paris){paris}[97mAug[97m
+[97m111010[97mJun[91m(stockholm){stockholm}[97m$[91m(stockholm){paris}[97mGreen[97mtao
+[97mtao[97mNULL[91m(paris){paris}[97m[91m(stockholm){tokyo}[97mRed[97mSat
+[97m`[97m3.14153[91m(tokyo){paris}[97mBLACK[91m(tokyo){stockholm}[97mphi[97m$$
+[97m3.14[97mFeb[91m(paris){tokyo}[97mphi[91m(stockholm){paris}[97mJan[97mYellow
+[97m3.1415[97m"[91m(stockholm){paris}[97mchi[91m(paris){paris}[97mNILL[97m$
+[97mRed[97mVOID[91m(paris){tokyo}[97mGreen[91m(paris){tokyo}[97mWHITE[97mWHITE
+[97m[97mphi[91m(tokyo){paris}[97mSep[91m(paris){stockholm}[97m [97mTue
+[97mVOID[97mWHITE[91m(paris){stockholm}[97mJun[91m(tokyo){tokyo}[97m101001[97m
+[97mfoo[97m$[91m(paris){tokyo}[97m$$[91m(paris){paris}[97mBLACK[97mMar
+[97m000000[97mBlue[91m(stockholm){stockholm}[97m[91m(stockholm){paris}[97mGreen[97mpi
+[97mGreen[97mNULL[91m(tokyo){tokyo}[97mfoo[91m(tokyo){paris}[97m"[97m$$
+[97mchi[97mfubar[91m(tokyo){tokyo}[97mphi[91m(paris){stockholm}[97mphi[97m$$
+[97mfubar[97mtao[91m(tokyo){tokyo}[97mblah[91m(tokyo){stockholm}[97m$[97m`
+[97m[97mNULL[91m(stockholm){paris}[97m"[91m(tokyo){paris}[97m$$$[97mPurple
+[97mMar[97m010010[91m(paris){paris}[97m[91m(stockholm){tokyo}[97m [97m101101
+[97m3.14153[97mfubar[91m(tokyo){stockholm}[97m3.14[91m(paris){stockholm}[97mNILL[97m
+[97m$[97m"[91m(tokyo){tokyo}[97m[91m(tokyo){paris}[97m$$[97mNULL
+[97m101010[97m2.8[91m(stockholm){tokyo}[97m110101[91m(tokyo){tokyo}[97mRed[97mOct
+[97mOrange[97mBLACK[91m(tokyo){stockholm}[97m$$$[91m(stockholm){tokyo}[97mblah[97mphi
+[97m000001[97mfubar[91m(tokyo){paris}[97mOrange[91m(paris){paris}[97m111011[97mWHITE
+[97mphi[97mRed[91m(paris){stockholm}[97mMay[91m(paris){stockholm}[97m111100[97mpi
+[97mVOID[97m$$[91m(tokyo){tokyo}[97mBLACK[91m(paris){stockholm}[97mphi[97mJan
+[97mPurple[97mTue[91m(stockholm){tokyo}[97mAug[91m(paris){stockholm}[97mSep[97mNILL

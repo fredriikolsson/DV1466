@@ -1,0 +1,80 @@
+[91m::->1827[97m110111[97mchi[97m[97m$$$[97m'
+[97mMon[91m::->1836[97m$$$[97mchi[97mphi[97m3.14153
+[97mBLACK[97mBlue[97m101010[91m::->6496[97m'[97m$
+[91m::->5595[97m000001[97m[97m010100[97m`[97mNILL
+[97mphi[97mFeb[97m3.14[97mWHITE[97m"[91m::->8687
+[97mfubar[97mOrange[97m101101[97m"[97m$[91m::->4240
+[91m::->2706[97mTue[97m`[97m"[97mBlue[97m101010
+[97mpi[97mMon[97mFeb[91m::->5256[97m3.14153[97mMar
+[97m[97mGreen[97mtao[97mblah[97m`[91m::->3170
+[97m'[91m::->0489[97mphi[97mchi[97m [97mBLACK
+[97m'[97m [97mRed[97m$$$[91m::->9155[97mFeb
+[97m3.14153[91m::->1621[97m3.14[97mblah[97mpi[97m"
+[97mpi[97mRed[97mSat[91m::->7297[97m110011[97m101101
+[97mBLACK[91m::->4506[97mVOID[97mBlue[97mblah[97mBlue
+[97m [97mNULL[97m`[97mBLACK[97mSun[91m::->6385
+[97m [97mWHITE[91m::->7266[97mMar[97mFri[97mJun
+[97m [97mblah[97mphi[97mMon[91m::->0665[97m
+[97mTue[97mApr[97mWHITE[97mfubar[91m::->0756[97mfubar
+[97m[97m3.1415[97mphi[97m`[97m [91m::->4518
+[97mSep[97m000110[91m::->4911[97mMon[97mBLACK[97m3.14153
+[97mWHITE[97mphi[97mfubar[91m::->4298[97m$$[97mBLACK
+[97mWHITE[91m::->3050[97mblah[97mWHITE[97mSat[97m010110
+[91m::->1314[97m [97mWed[97m [97mblah[97mphi
+[97m'[97m`[97mRed[97mMay[91m::->6185[97m
+[97m'[97mVOID[97mPurple[97mphi[97m"[91m::->2469
+[97m011001[91m::->0581[97mFri[97mfubar[97mSep[97mMon
+[97m$[97mPurple[97m3.14[97m$$[91m::->8530[97mNov
+[97mJun[91m::->4006[97mNULL[97mfubar[97m'[97m
+[91m::->4147[97mJun[97mWHITE[97mWHITE[97mSep[97mGreen
+[97mNILL[97m$$$[97m"[97mNULL[91m::->5452[97mTue
+[97mpi[97mBLACK[97m$$[91m::->9903[97mpi[97mPurple
+[97m3.1415[97m[91m::->5612[97mMar[97m$[97mfubar
+[97mVOID[91m::->5462[97m2.8[97m2.8[97mRed[97mchi
+[97m110110[97mWHITE[91m::->7802[97mGreen[97mOrange[97mBLACK
+[97m[97m3.1415[91m::->7788[97mfubar[97m[97mblah
+[97mblah[91m::->2219[97mNULL[97mchi[97mphi[97mOct
+[97mfubar[97mpi[97mtao[97mblah[97mGreen[91m::->2057
+[97mPurple[97mfoo[91m::->1031[97m2.8[97mchi[97mVOID
+[97mWHITE[97mBLACK[97mBLACK[97mOct[91m::->5928[97m111011
+[97m2.8[97m3.14[91m::->7849[97m3.1415[97mblah[97mPurple
+[97mfoo[97m010101[97m3.14[91m::->3521[97m3.14153[97mOrange
+[97mWed[97mfoo[97m000111[97mfoo[91m::->5459[97mphi
+[97m'[91m::->8650[97m$$[97mpi[97mtao[97m 
+[97mpi[91m::->8350[97mWHITE[97m[97mMon[97mGreen
+[97mNULL[97mMon[91m::->9288[97mpi[97mfoo[97mYellow
+[97m101100[91m::->5448[97m000000[97m[97m[97m3.14
+[97mpi[97mBLACK[97mApr[97mpi[91m::->1624[97m$$
+[97mblah[91m::->5214[97mfoo[97mfubar[97mWHITE[97mOrange
+[91m::->3724[97mMon[97mWHITE[97m"[97m"[97mNULL
+[97m$$[97mThu[97mblah[97mWed[97m2.8[91m::->3436
+[97m2.8[91m::->0038[97m3.14[97mtao[97m3.14153[97mtao
+[97m3.1415[91m::->2300[97mRed[97m`[97m3.14[97m 
+[97mchi[97m2.8[97mFri[91m::->8271[97m3.1415[97m 
+[97mVOID[97mNULL[91m::->7588[97mTue[97mAug[97mfoo
+[97mWed[97mpi[97mfubar[91m::->1541[97m$$[97mNILL
+[97m3.14153[97m[97mNILL[97mNov[91m::->2916[97mWHITE
+[97mWHITE[97mpi[97mblah[97mBLACK[97m3.14153[91m::->8536
+[97m$$$[91m::->0618[97mblah[97mblah[97mchi[97mBLACK
+[97m$$$[97mSat[91m::->0089[97m000010[97mBLACK[97m$
+[97m [91m::->3952[97mfoo[97mNILL[97mpi[97mfubar
+[91m::->9876[97mOct[97m`[97mfoo[97m$$$[97mfoo
+[97mMay[97mpi[97mApr[97mTue[97m"[91m::->2186
+[97mfoo[97m[97mNULL[97mYellow[91m::->9530[97mfoo
+[97m"[97mNULL[97mNILL[97mWHITE[91m::->2941[97mBLACK
+[97mchi[97mphi[91m::->6801[97mThu[97mchi[97mOrange
+[97m[97m001100[97mTue[97mRed[97mphi[91m::->9527
+[97m"[97mWed[97m[97mRed[91m::->4213[97m 
+[97m000101[97mblah[97mFeb[97mblah[97mWHITE[91m::->1306
+[97m011010[97mblah[97mMar[97m$[97mMar[91m::->7081
+[97mAug[97m`[97m3.1415[97mSun[91m::->9909[97m$
+[97mphi[97mMar[97mNULL[97m2.8[91m::->0278[97m 
+[97mfoo[97mRed[97m [97mNILL[97m3.1415[91m::->2341
+[97mJun[97m[91m::->3133[97mWHITE[97mTue[97mWHITE
+[97m001001[97mSep[97mAug[91m::->5894[97mfoo[97mblah
+[97mGreen[97m3.14153[91m::->7227[97m[97mphi[97mRed
+[97mGreen[97mFeb[97m'[97mfubar[97mWHITE[91m::->1372
+[97m[91m::->2665[97m3.1415[97mSep[97mBLACK[97mblah
+[97mDec[97mBlue[97mWHITE[97mtao[97m [91m::->7637
+[97mWHITE[97m$[97m000000[97mNILL[91m::->7617[97mchi
+[97mfoo[97mNULL[97m$$$[97m'[91m::->1709[97mTue

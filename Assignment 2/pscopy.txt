@@ -1,0 +1,203 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 185284  5008 ?        Ss   nov15   0:02 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    nov15   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    nov15   0:00 [ksoftirqd/0]
+root         7  0.0  0.0      0     0 ?        S    nov15   0:14 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    nov15   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    nov15   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S<   nov15   0:00 [lru-add-drain]
+root        11  0.0  0.0      0     0 ?        S    nov15   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    nov15   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    nov15   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    nov15   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    nov15   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    nov15   0:01 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    nov15   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    nov15   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    nov15   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    nov15   0:04 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    nov15   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    nov15   0:00 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    nov15   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    nov15   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    nov15   0:00 [kdevtmpfs]
+root        32  0.0  0.0      0     0 ?        S<   nov15   0:00 [netns]
+root        34  0.0  0.0      0     0 ?        S    nov15   0:00 [khungtaskd]
+root        35  0.0  0.0      0     0 ?        S    nov15   0:00 [oom_reaper]
+root        36  0.0  0.0      0     0 ?        S<   nov15   0:00 [writeback]
+root        37  0.0  0.0      0     0 ?        S    nov15   0:00 [kcompactd0]
+root        38  0.0  0.0      0     0 ?        SN   nov15   0:00 [ksmd]
+root        39  0.0  0.0      0     0 ?        SN   nov15   0:01 [khugepaged]
+root        40  0.0  0.0      0     0 ?        S<   nov15   0:00 [crypto]
+root        41  0.0  0.0      0     0 ?        S<   nov15   0:00 [kintegrityd]
+root        42  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root        43  0.0  0.0      0     0 ?        S<   nov15   0:00 [kblockd]
+root        47  0.0  0.0      0     0 ?        S<   nov15   0:00 [ata_sff]
+root        48  0.0  0.0      0     0 ?        S<   nov15   0:00 [md]
+root        49  0.0  0.0      0     0 ?        S<   nov15   0:00 [devfreq_wq]
+root        50  0.0  0.0      0     0 ?        S<   nov15   0:00 [watchdogd]
+root        53  0.0  0.0      0     0 ?        S    nov15   0:00 [kauditd]
+root        54  0.0  0.0      0     0 ?        S    nov15   0:07 [kswapd0]
+root        55  0.0  0.0      0     0 ?        S<   nov15   0:00 [vmstat]
+root        56  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root        57  0.0  0.0      0     0 ?        S    nov15   0:00 [ecryptfs-kthrea]
+root        97  0.0  0.0      0     0 ?        S<   nov15   0:00 [kthrotld]
+root        98  0.0  0.0      0     0 ?        S<   nov15   0:00 [acpi_thermal_pm]
+root       100  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       101  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       102  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       103  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       104  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       105  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       106  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       107  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       112  0.0  0.0      0     0 ?        S<   nov15   0:00 [ipv6_addrconf]
+root       133  0.0  0.0      0     0 ?        S<   nov15   0:00 [charger_manager]
+root       181  0.0  0.0      0     0 ?        S    nov15   0:00 [scsi_eh_0]
+root       182  0.0  0.0      0     0 ?        S<   nov15   0:00 [scsi_tmf_0]
+root       183  0.0  0.0      0     0 ?        S    nov15   0:00 [scsi_eh_1]
+root       184  0.0  0.0      0     0 ?        S<   nov15   0:00 [scsi_tmf_1]
+root       185  0.0  0.0      0     0 ?        S    nov15   0:00 [scsi_eh_2]
+root       186  0.0  0.0      0     0 ?        S<   nov15   0:00 [scsi_tmf_2]
+root       192  0.0  0.0      0     0 ?        S    nov15   0:00 [i915/signal:0]
+root       193  0.0  0.0      0     0 ?        S    nov15   0:00 [i915/signal:1]
+root       194  0.0  0.0      0     0 ?        S    nov15   0:00 [i915/signal:2]
+root       195  0.0  0.0      0     0 ?        S    nov15   0:00 [i915/signal:4]
+root       196  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root       199  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/0:1H]
+root       200  0.0  0.0      0     0 ?        S<   nov15   0:01 [kworker/2:1H]
+root       201  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/3:1H]
+root       265  0.0  0.0      0     0 ?        S<   nov15   0:00 [kworker/1:1H]
+root       285  0.0  0.0      0     0 ?        S    nov15   0:01 [jbd2/sda4-8]
+root       286  0.0  0.0      0     0 ?        S<   nov15   0:00 [ext4-rsv-conver]
+root       325  0.0  0.0  32108  3724 ?        Ss   nov15   0:01 /lib/systemd/systemd-journald
+root       348  0.0  0.0  94772  1104 ?        Ss   nov15   0:00 /sbin/lvmetad -f
+root       358  0.0  0.1  45512  4008 ?        Ss   nov15   0:00 /lib/systemd/systemd-udevd
+root       445  0.0  0.0      0     0 ?        S<   nov15   0:00 [kmemstick]
+root       457  0.0  0.0      0     0 ?        S<   nov15   0:04 [kworker/u9:1]
+root       471  0.0  0.0      0     0 ?        S<   nov15   0:00 [cfg80211]
+root       491  0.1  0.0      0     0 ?        S    nov15   2:20 [irq/133-iwlwifi]
+root       558  0.0  0.0      0     0 ?        S<   nov15   0:00 [loop0]
+root       559  0.0  0.0      0     0 ?        S<   nov15   0:00 [loop1]
+root       563  0.0  0.0      0     0 ?        S<   nov15   0:00 [loop2]
+systemd+   779  0.0  0.0 102384  2340 ?        Ssl  nov15   0:00 /lib/systemd/systemd-timesyncd
+root       900  0.0  0.1  32116  4308 ?        Ss   nov15   0:00 /usr/lib/bluetooth/bluetoothd
+root       904  0.0  0.1 279024  5800 ?        Ssl  nov15   0:00 /usr/lib/accountsservice/accounts-daemon
+root       912  0.0  0.0  31756  2424 ?        Ss   nov15   0:00 /usr/sbin/cron -f
+root       916  0.0  0.0   4400  1196 ?        Ss   nov15   0:01 /usr/sbin/acpid
+syslog     917  0.0  0.1 256396  4472 ?        Ssl  nov15   0:00 /usr/sbin/rsyslogd -n
+root       923  0.0  0.1 259884  4428 ?        Ssl  nov15   0:00 /usr/sbin/iio-sensor-proxy
+message+   925  0.0  0.1  44616  4904 ?        Ss   nov15   0:13 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       981  0.0  0.2 337340  8208 ?        Ssl  nov15   0:00 /usr/sbin/ModemManager
+root       982  0.0  0.3 666456 14320 ?        Ssl  nov15   0:25 /usr/sbin/NetworkManager --no-daemon
+root       983  0.0  0.0  28648  2744 ?        Ss   nov15   0:00 /lib/systemd/systemd-logind
+root       985  0.0  0.1 169160  7700 ?        Ssl  nov15   0:01 /usr/sbin/thermald --no-daemon --dbus-enable
+avahi      986  0.0  0.0  44916  3396 ?        Ss   nov15   0:00 avahi-daemon: running [benny-hp.local]
+avahi      997  0.0  0.0  44788   332 ?        S    nov15   0:00 avahi-daemon: chroot helper
+root      1021  0.0  0.0  19568  2176 ?        Ss   nov15   0:01 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1026  0.0  0.2 177776 10592 ?        Ssl  nov15   0:00 /usr/bin/sddm
+root      1052  0.0  0.2 285116  8204 ?        Ssl  nov15   0:01 /usr/lib/policykit-1/polkitd --no-debug
+mysql     1082  0.0  3.4 1246964 134720 ?      Ssl  nov15   0:08 /usr/sbin/mysqld
+root      1088  0.2  2.6 377860 102768 tty7    Ssl+ nov15   3:42 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{2837ea07-5c45-4024-b765-c2a7e6d90a84} -background none -noreset -displayfd 18 -seat seat0 vt7
+root      1090  0.0  0.1  44252  5952 ?        Ss   nov15   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1168  0.0  0.2 432624  8160 ?        Ssl  nov15   0:03 /usr/lib/udisks2/udisksd --no-debug
+root      1174  0.0  0.2 350268  8084 ?        Ssl  nov15   0:01 /usr/lib/upower/upowerd
+root      1203  0.0  0.0  18688  1588 tty1     Ss+  nov15   0:00 /sbin/agetty --noclear tty1 linux
+root      1237  0.0  0.1 167668  6608 ?        Sl   nov15   0:12 /opt/teamviewer/tv_bin/teamviewerd -d
+root      2306  0.0  0.2 124680 10148 ?        SL   nov15   0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-auth869d7439-755d-4ba7-a60e-5e201f907c3e --id 1 --start /usr/bin/startkde --user fredrik
+fredrik   2307  0.0  0.0  45248  3520 ?        Ss   nov15   0:00 /lib/systemd/systemd --user
+fredrik   2308  0.0  0.0  61616  1868 ?        S    nov15   0:00 (sd-pam)
+fredrik   2313  0.0  0.8 516408 31664 ?        Sl   nov15   0:02 /usr/bin/kwalletd5 --pam-login 15 18
+fredrik   2314  0.0  0.0   4508  1544 ?        S    nov15   0:00 /bin/sh /usr/bin/startkde
+fredrik   2351  0.0  0.0  11140   320 ?        Ss   nov15   0:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session /usr/bin/startkde
+fredrik   2354  0.0  0.0  43600   360 ?        S    nov15   0:00 /usr/bin/dbus-launch --exit-with-session /usr/bin/startkde
+fredrik   2355  0.0  0.0  43556  3740 ?        Ss   nov15   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 15 --session
+fredrik   2381  0.0  0.0   6300    92 ?        S    nov15   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit --kded +kcminit_startup
+fredrik   2382  0.0  0.4 274872 18168 ?        Ss   nov15   0:00 kdeinit5: Running...
+fredrik   2383  0.0  0.7 499112 30588 ?        Sl   nov15   0:02 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9
+fredrik   2386  0.0  1.5 1257932 60812 ?       Sl   nov15   0:11 kded5 [kdeinit5]
+fredrik   2403  0.0  0.0  68316  3224 ?        S    nov15   0:00 kwrapper5 /usr/bin/ksmserver
+fredrik   2404  0.0  0.9 629204 35528 ?        Sl   nov15   0:04 /usr/bin/ksmserver
+fredrik   2406  0.0  0.7 511980 30156 ?        Sl   nov15   0:02 /usr/bin/kaccess
+fredrik   2413  0.0  0.7 501220 30076 ?        Sl   nov15   0:02 /usr/bin/kglobalaccel5
+fredrik   2416  0.0  0.8 892780 34076 ?        Sl   nov15   0:03 /usr/bin/kactivitymanagerd start-daemon
+fredrik   2431  0.0  0.1 178532  4680 ?        Sl   nov15   0:00 /usr/lib/dconf/dconf-service
+fredrik   2434  0.3  2.7 3266460 108720 ?      Sl   nov15   5:06 kwin_x11 -session 10db92d6de000150581559400000014400004_1510306246_202657
+fredrik   2436  0.0  1.2 268783728 49620 ?     SNl  nov15   0:29 /usr/bin/baloo_file
+fredrik   2437  0.0  1.9 1018216 78460 ?       Sl   nov15   0:09 /usr/bin/krunner
+fredrik   2438  0.0  6.2 4748108 246288 ?      Sl   nov15   1:19 /usr/bin/plasmashell
+fredrik   2443  0.0  0.8 671220 33724 ?        Sl   nov15   0:02 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+fredrik   2444  0.0  0.7 508592 29560 ?        Sl   nov15   0:02 /usr/bin/xembedsniproxy
+fredrik   2456  0.0  1.1 1274144 43920 ?       Sl   nov15   0:03 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil -session 10db92d6de000150581559400000014400007_1510306231_671193
+fredrik   2471  0.0  0.2 450564 10272 ?        S<l  nov15   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     2473  0.0  0.0 183544  2840 ?        SNsl nov15   0:00 /usr/lib/rtkit/rtkit-daemon
+fredrik   2477  0.0  0.3 343496 14164 ?        Sl   nov15   0:02 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+fredrik   2504  0.0  0.0 101380  3508 ?        S    nov15   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+fredrik   2508  0.0  0.1  64364  5052 ?        S    nov15   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      2526  0.0  0.0      0     0 ?        S<   nov15   0:00 [krfcommd]
+fredrik   2541  0.0  0.2 337736  9580 ?        Sl   nov15   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+fredrik   2551  0.0  0.0  43032  3524 ?        S    nov15   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+nobody    2554  0.0  0.0  55632  3264 ?        S    nov15   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+fredrik   2577  0.0  0.1 207012  6004 ?        Sl   nov15   0:04 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+fredrik   2611  0.0  0.1 150304  6688 ?        S    nov15   0:00 /usr/lib/bluetooth/obexd
+fredrik   2713  0.0  0.1 277480  4668 ?        Sl   nov15   0:00 /usr/lib/gvfs/gvfsd
+root      2725  0.0  1.4 460924 56112 ?        Ssl  nov15   0:27 /usr/lib/packagekit/packagekitd
+fredrik   2744  0.0  0.8 500744 31720 ?        Sl   nov15   0:02 /usr/bin/kuiserver5
+fredrik   2758  0.0  0.9 600924 35988 ?        Sl   nov15   0:03 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+fredrik   2784  0.0  0.3 243704 13476 ?        Sl   nov15   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kio_http_cache_cleaner
+fredrik   3027  1.3 10.9 2814252 431652 ?      Sl   nov15  23:02 /usr/lib/firefox/firefox
+fredrik   3210  0.4 11.0 2799420 432792 ?      Sl   nov15   7:42 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -intPrefs 5:50|6:-1|18:0|28:1000|33:20|34:10|43:128|44:10000|49:0|51:400|52:1|53:0|54:0|59:0|60:120|61:120|92:2|93:1|107:5000|118:0|120:0|131:10000|156:24|157:32768|159:0|160:0|168:5|172:1048576|173:100|174:5000|176:600|177:4|178:1|187:2|201:60000| -boolPrefs 1:0|2:0|4:0|26:1|27:1|30:0|35:1|36:0|37:0|38:0|41:1|42:1|45:0|46:0|47:0|48:0|50:0|55:1|56:1|57:0|58:1|62:1|63:1|64:0|65:1|66:1|67:0|68:1|71:0|72:0|75:1|76:1|80:1|81:1|82:1|83:0|84:0|86:0|87:0|88:1|89:0|94:1|95:0|101:0|106:0|109:1|110:0|112:1|113:1|115:1|119:0|121:0|123:0|125:1|126:1|132:0|133:0|134:1|136:0|147:0|154:0|155:0|158:1|161:0|163:1|165:1|166:0|171:0|175:1|180:0|181:0|182:0|183:1|184:0|185:0|186:1|189:1|193:0|194:0|195:1|196:1|197:0|198:1|199:1|200:1|202:0|203:0|205:0|213:1|214:1|215:0|216:0|217:0| -stringPrefs 3:7;release|135:3;1.0|152:332;  ¼½¾ǃː??։֊׃״؉؊٪۔܁܂܃܄ᅟᅠ᜵           ???‐’․‧??????? ‹›⁁⁄⁒ ⅓⅔⅕⅖⅗⅘⅙⅚?⅜⅝⅞⅟∕∶⎮╱⧶⧸⫻⫽⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻　。〔〕〳゠ㅤ㈝㈞㎮㎯㏆㏟꞉︔︕︿﹝﹞?．／｡ﾠ???￼�|153:8;moderate| -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 3027 true tab
+fredrik   3285  0.0  0.8 268943928 33692 ?     Sl   nov15   0:03 /usr/lib/x86_64-linux-gnu/libexec/baloorunner
+root      4321  0.0  0.1  95984  5112 ?        Ss   nov15   0:00 /usr/sbin/cupsd -l
+root      4322  0.0  0.1 274820  6844 ?        Ssl  nov15   0:00 /usr/sbin/cups-browsed
+root      5493  0.0  0.0  43744  2144 ?        S    nov15   0:00 dbus-launch --autolaunch 4dace53e20c1496d844b1a4970a4161c --binary-syntax --close-stderr
+root      5494  0.0  0.0  42768  2400 ?        Ss   nov15   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+fredrik   6191  0.0  1.3 607224 52072 ?        Sl   nov15   0:05 konsole [kdeinit5]
+fredrik   6194  0.0  0.1  25568  5216 pts/3    Ss   nov15   0:00 /bin/bash
+fredrik   7046  0.0  0.1 188940  5132 ?        Sl   nov15   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      7288  0.0  0.0      0     0 ?        S<   nov15   0:00 [bioset]
+root      7289  0.0  0.0      0     0 ?        S    nov15   0:00 [mmcqd/0]
+fredrik  10015  0.0  1.9 1106300 74792 ?       Sl   nov15   0:20 konsole [kdeinit5]
+fredrik  10018  0.0  0.1  25812  5364 pts/1    Ss+  nov15   0:01 /bin/bash
+fredrik  10766  0.0  1.3 608872 53868 ?        Sl   nov15   0:03 konsole [kdeinit5]
+fredrik  10769  0.0  0.0  25496  3676 pts/2    Ss   nov15   0:00 /bin/bash
+fredrik  10781  0.0  0.0  21100  2596 pts/2    S+   nov15   0:00 man sed
+fredrik  10793  0.0  0.0  12404   340 pts/2    S+   nov15   0:00 pager
+root     15143  0.0  0.0      0     0 ?        S    nov15   0:00 [kworker/2:1]
+root     15565  0.0  0.0      0     0 ?        S    12:52   0:00 [kworker/0:5]
+root     15953  0.0  0.0      0     0 ?        S<   12:55   0:00 [loop4]
+root     15968  0.0  0.6 512668 26180 ?        Ssl  12:55   0:01 /usr/lib/snapd/snapd
+root     16170  0.0  0.0      0     0 ?        S    13:07   0:00 [kworker/1:2]
+root     16333  0.0  0.0      0     0 ?        S    13:15   0:00 [kworker/u8:8]
+root     16352  0.0  0.0      0     0 ?        S    13:31   0:00 [kworker/u8:28]
+root     16376  0.0  0.0      0     0 ?        S    13:31   0:00 [irq/132-mei_me]
+root     16377  0.0  0.0      0     0 ?        S    13:31   0:00 [kworker/3:0]
+root     16391  0.0  0.0      0     0 ?        S<   13:31   0:00 [hci0]
+root     16397  0.0  0.0      0     0 ?        S<   13:31   0:00 [hci0]
+root     16402  0.0  0.0      0     0 ?        S<   13:31   0:00 [kworker/u9:2]
+fredrik  16455  0.0  0.0  10056  2096 ?        S    13:31   0:00 ksysguardd
+root     16457  0.0  0.0  16124  3632 ?        S    13:31   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlo1.pid -lf /var/lib/NetworkManager/dhclient-7ca0df96-4a06-434e-b8a8-455e69976887-wlo1.lease -cf /var/lib/NetworkManager/dhclient-wlo1.conf wlo1
+root     16683  0.0  0.0      0     0 ?        S    13:37   0:00 [kworker/u8:0]
+root     16730  0.0  0.0      0     0 ?        S    13:40   0:00 [kworker/2:0]
+root     16817  0.0  0.0      0     0 ?        S    13:42   0:00 [kworker/1:0]
+root     16819  0.0  0.0      0     0 ?        S    13:43   0:00 [kworker/0:0]
+root     16844  0.0  0.0      0     0 ?        S    13:44   0:00 [kworker/3:1]
+root     16855  0.0  0.0      0     0 ?        S    13:45   0:00 [scsi_eh_3]
+root     16857  0.0  0.0      0     0 ?        S<   13:45   0:00 [scsi_tmf_3]
+root     16858  0.0  0.0      0     0 ?        D    13:45   0:00 [usb-storage]
+root     16862  0.0  0.0      0     0 ?        S<   13:45   0:00 [bioset]
+fredrik  16995  0.0  0.9 539884 39052 ?        Sl   13:51   0:00 /usr/bin/dolphin --daemon
+fredrik  17006  0.9  1.8 711316 72088 ?        Sl   13:51   0:02 /usr/bin/ark /tmp/mozilla_fredrik0/RosaImageWriter-2.6.2-lin-x86_64.tar.xz
+fredrik  17067  0.0  0.5 351588 21276 ?        Sl   13:51   0:00 desktop.so [kdeinit5] desktop local:/run/user/1000/klauncherTJ2383.1.slave-socket local:/run/user/1000/plasmashellwS2438.14.slave-socket
+fredrik  17069  0.0  0.4 283784 19548 ?        S    13:51   0:00 file.so [kdeinit5] file local:/run/user/1000/klauncherTJ2383.1.slave-socket local:/run/user/1000/kio_desktopM17067.1.slave-socket
+root     17070  0.0  0.0      0     0 ?        S    13:51   0:00 [kworker/0:1]
+fredrik  17258  0.2  0.6 374960 25932 ?        Sl   13:52   0:00 /usr/bin/gksu '/home/fredrik/Skrivbord/RosaImageWriter/RosaImageWriter' '--lang=sv_SE' '--dir=/home/fredrik/Hämtningar'
+root     17261  0.0  0.0  57840  3864 ?        Ss   13:52   0:00 /usr/bin/sudo -H -S -p GNOME_SUDO_PASS -u root -- /home/fredrik/Skrivbord/RosaImageWriter/RosaImageWriter --lang=sv_SE --dir=/home/fredrik/Hämtningar
+root     17264  1.7  0.5 206144 21104 ?        Sl   13:52   0:04 /home/fredrik/Skrivbord/RosaImageWriter/RosaImageWriter --lang=sv_SE --dir=/home/fredrik/Hämtningar
+root     17308  0.0  0.0      0     0 ?        S    13:54   0:00 [kworker/2:2]
+root     17309  0.0  0.0      0     0 ?        S    13:54   0:00 [kworker/3:2]
+fredrik  17318  0.0  0.0  40112  3212 pts/3    R+   13:55   0:00 ps aux

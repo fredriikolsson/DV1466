@@ -1,0 +1,47 @@
+1a ./mixed/elsewhere/unclassified/planes/doesntQuiteFit/f117
+
+2a ./mixed/elsewhere/unclassified/deadpresidents/jefferson
+
+3a ./mixed/green/spitfire
+
+4a ./mixed/elsewhere/unclassified/planes/1969/747
+
+5a ./mixed/elsewhere/unclassified/deadpresidents/quincyadams
+
+6a 12
+6b ls
+6c ls only shows non-hidden files, so i just used the command ls and counted the number of entries
+
+-------------------------------------Prata med Max -------------------------------------------------------------
+7a 8
+7b ls -s
+7c ls -s prints the allocated size of each file, in blocks according to the manual
+
+-------------------------------------Prata med Max -------------------------------------------------------------
+8a elsewhere 
+8c ls -s
+8c same as above
+
+9a ./elsewhere/unclassified/planes/doesntQuiteFit
+9b tree and ls -R
+9c tree to find the deepest directory and ls -R to get the directory's path
+
+10a 34
+10b find ./*  -type d | wc -l
+10c man find told me that I could use -type d in ./* to find all directories in current folder, got info about a word counter wc here: http://www.tldp.org/HOWTO/Bash-Prompt-HOWTO/x700.html 
+
+11a 9
+11b find ./*  -type f | wc -l
+11c same as above but searching for type files instead of directories
+
+12a 14
+12b find ./ -mindepth 6 -type f | wc -l
+12c does the same from the current directory on the deepest level (only checking on depth 6 with mindepth)
+
+13a 1056b
+13b tree -s mixed/elsewhere/unclassified/deadpresidents
+13c used this command when i stood in the deadpresidents directory, man tree -s Print the size of each file in bytes along with the name.
+
+14a 1554
+14b tree -s celestialmotion/
+14c used as above, get a pretty graphical view of how it looks

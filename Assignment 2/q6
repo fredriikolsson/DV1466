@@ -1,0 +1,7 @@
+6a 1716
+6a 37690
+6a 48660
+6a 57380
+6a 5939
+6a 59430
+6b cat netcopy.txt | awk '(NR>2) {print $4}' | cut -f2- -d ':' | sed 's/:\([[:digit:]]\+\)$/\1/' | sed 's/:\]//' | grep '[[:digit:]]' | sort -u

@@ -1,0 +1,9 @@
+3a Proto Recv-Q Send-Q Local Address           Foreign Address         State       User       Inode      
+3a tcp        0      0 localhost:mysql         *:*                     LISTEN      mysql      24470      
+3a tcp        0      0 localhost:5939          *:*                     LISTEN      root       25395      
+3a tcp        0      0 benny-hp:domain         *:*                     LISTEN      root       29127      
+3a tcp        0      0 localhost:ipp           *:*                     LISTEN      root       41945      
+3a tcp        0      0 host-193-11-185-160.eduroam.bth.se:37690 server-13-33-44-22.arn53.r.cloudfront.net:https TIME_WAIT   root       0          
+3a tcp6       0      0 [::]:1716               [::]:*                  LISTEN      fredrik    31878      
+3a tcp6       0      0 ip6-localhost:ipp       [::]:*                  LISTEN      root       41944      
+3b cat netcopy.txt | awk 'NR>1' | grep -v ETABLERAD

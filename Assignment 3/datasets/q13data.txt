@@ -1,0 +1,80 @@
+ foo[paris][stockholm](tokyo)chi[stockholm][tokyo](tokyo)"blah
+Orangetao[paris][paris](paris)chi[tokyo][paris](tokyo)ThuYellow
+BLACK$[tokyo][tokyo](tokyo)NILL[stockholm][tokyo](paris)111101Jun
+fubarblah[stockholm][tokyo](stockholm)Tue[paris][stockholm](stockholm)BLACKBlue
+Greenblah[tokyo][stockholm](tokyo)111011[tokyo][paris](paris)3.14153$
+NULL[stockholm][paris](stockholm)VOID[paris][tokyo](stockholm)VOIDblah
+ Tue[tokyo][paris](paris) [stockholm][stockholm](tokyo)VOID3.1415
+YellowFeb[stockholm][stockholm](paris)tao[tokyo][stockholm](tokyo)`chi
+$$001001[tokyo][tokyo](paris)`[tokyo][paris](paris)3.14153.14153
+GreenBLACK[stockholm][paris](paris)VOID[paris][tokyo](stockholm)NULLNILL
+$$[tokyo][tokyo](stockholm)Aug[stockholm][stockholm](tokyo)fooblah
+DecSat[tokyo][stockholm](stockholm)Apr[stockholm][tokyo](tokyo)NILLWed
+110000$[paris][stockholm](stockholm)tao[tokyo][paris](tokyo)Sep$$
+3.14VOID[paris][paris](stockholm)$[paris][stockholm](tokyo)tao`
+NULLJul[tokyo][paris](paris)chi[stockholm][paris](tokyo)`Yellow
+taochi[stockholm][paris](stockholm) [tokyo][paris](stockholm)Thu
+NULL$[stockholm][stockholm](tokyo)NULL[tokyo][paris](tokyo)Red'
+VOIDWHITE[tokyo][stockholm](tokyo)BLACK[tokyo][paris](tokyo) 011101
+NILLWHITE[tokyo][stockholm](tokyo)011110[tokyo][stockholm](stockholm)WHITENULL
+3.1415Green[tokyo][tokyo](stockholm)blah[stockholm][stockholm](paris)BLACK$$
+110010Orange[paris][tokyo](paris)WHITE[tokyo][paris](stockholm)3.14Yellow
+'"[paris][stockholm](paris)Dec[paris][paris](stockholm)WHITE 
+Wed'[paris][tokyo](tokyo)[paris][stockholm](stockholm)MarBLACK
+Purple[paris][paris](paris) [tokyo][tokyo](stockholm)BlueNov
+blahphi[tokyo][stockholm](paris)"[tokyo][tokyo](stockholm)WHITEchi
+010000$[tokyo][stockholm](paris)WHITE[stockholm][stockholm](tokyo)3.14$
+NULLpi[paris][stockholm](tokyo)Wed[paris][stockholm](stockholm)OrangeYellow
+3.1415WHITE[paris][paris](stockholm) [tokyo][paris](stockholm)taoBLACK
+Tueblah[stockholm][stockholm](stockholm)tao[tokyo][paris](paris)WHITEMar
+Purple001010[stockholm][stockholm](stockholm)Jan[tokyo][tokyo](tokyo)$$$NILL
+foo [stockholm][tokyo](stockholm)000110[paris][tokyo](stockholm)$$$Red
+$VOID[paris][tokyo](paris)WHITE[paris][stockholm](stockholm)$
+3.1415VOID[tokyo][stockholm](paris)WHITE[paris][paris](paris)ThuOct
+3.14153[paris][tokyo](paris)WHITE[tokyo][tokyo](paris)2.8chi
+WHITETue[tokyo][stockholm](stockholm)VOID[paris][tokyo](paris)BLACK"
+$3.14153[tokyo][tokyo](paris)blah[tokyo][stockholm](stockholm)$$$2.8
+011001Purple[paris][paris](paris)3.1415[paris][stockholm](paris)SatThu
+MonSun[stockholm][tokyo](paris)3.14[stockholm][stockholm](stockholm)BLACKTue
+'`[stockholm][stockholm](paris)Green[stockholm][tokyo](stockholm)Thufoo
+2.8'[paris][stockholm](stockholm)blah[stockholm][paris](tokyo)fubar3.1415
+PurpleWed[stockholm][stockholm](stockholm)Red[stockholm][tokyo](tokyo)`000010
+Sun$$$[tokyo][paris](tokyo)3.14[tokyo][stockholm](paris)NovBlue
+BLACKNULL[tokyo][stockholm](stockholm)NULL[tokyo][stockholm](paris)SatNULL
+$Yellow[paris][tokyo](stockholm)Sat[stockholm][tokyo](stockholm)Novfubar
+Friphi[stockholm][paris](stockholm)Fri[stockholm][tokyo](paris)BLACK
+010011$$[tokyo][paris](paris)3.14153[paris][paris](paris)011011$$$
+blahPurple[tokyo][tokyo](paris)[tokyo][tokyo](tokyo)fubartao
+SatThu[stockholm][tokyo](paris)fubar[paris][stockholm](stockholm)3.14WHITE
+WHITENILL[stockholm][stockholm](paris)011000[tokyo][stockholm](tokyo)3.14153
+Thublah[stockholm][paris](paris)fubar[paris][paris](paris)$fubar
+WHITE3.14[paris][tokyo](stockholm)BLACK[tokyo][paris](paris)3.14153.1415
+"blah[paris][stockholm](stockholm)001010[tokyo][stockholm](tokyo)blah
+YellowBLACK[tokyo][tokyo](stockholm)phi[paris][tokyo](tokyo)"Fri
+$$$010111[paris][stockholm](paris)WHITE[paris][paris](paris)pi$$
+Blue[tokyo][stockholm](paris)011010[tokyo][stockholm](tokyo)NILL$$$
+`$[tokyo][paris](tokyo)$[tokyo][tokyo](tokyo)fubar$$
+3.14100111[tokyo][stockholm](stockholm)fubar[tokyo][stockholm](stockholm)'Purple
+Aprpi[stockholm][stockholm](paris)Wed[stockholm][paris](stockholm)Blue2.8
+`3.14153[stockholm][paris](paris)Nov[paris][paris](paris)fubarBLACK
+Thu000010[tokyo][paris](stockholm)Mon[stockholm][stockholm](paris)TuePurple
+WHITE [stockholm][paris](tokyo)3.1415[paris][tokyo](tokyo)'`
+NILLtao[stockholm][stockholm](tokyo)May[tokyo][stockholm](paris)Satpi
+011110$$$[stockholm][stockholm](tokyo)Tue[paris][paris](tokyo)VOIDDec
+Sunfoo[tokyo][tokyo](stockholm)3.1415[tokyo][paris](stockholm)3.14'
+WHITENILL[paris][stockholm](tokyo)Nov[paris][tokyo](paris) Wed
+ NULL[stockholm][paris](stockholm)BLACK[paris][tokyo](paris)$$
+2.8[stockholm][tokyo](paris)Green[paris][tokyo](stockholm)'NILL
+fooWHITE[paris][tokyo](stockholm)BLACK[paris][tokyo](paris)BLACKFri
+ May[stockholm][stockholm](stockholm)WHITE[paris][stockholm](stockholm)Suntao
+fubarVOID[stockholm][tokyo](stockholm)BLACK[stockholm][stockholm](paris)$$BLACK
+$[stockholm][paris](paris)chi[paris][tokyo](tokyo)Green$$
+$$$WHITE[tokyo][tokyo](stockholm)3.1415[paris][stockholm](stockholm)'VOID
+WHITEGreen[paris][stockholm](paris)pi[paris][paris](tokyo)JulVOID
+phiNILL[stockholm][paris](tokyo)"[paris][stockholm](stockholm)GreenNULL
+Orange[tokyo][paris](paris)'[tokyo][tokyo](paris)chi
+RedNILL[stockholm][tokyo](tokyo)2.8[tokyo][paris](stockholm)""
+010101[paris][tokyo](paris)VOID[paris][tokyo](tokyo)$"
+Dec$$$[paris][stockholm](paris)Purple[stockholm][stockholm](tokyo)$$$Fri
+Yellow$[stockholm][stockholm](paris)3.14153[paris][tokyo](tokyo)WHITE
+RedGreen[paris][paris](tokyo)$$[stockholm][stockholm](tokyo)Red'

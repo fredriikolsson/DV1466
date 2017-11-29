@@ -1,0 +1,6 @@
+1a code
+1a ls
+1a tree
+1a top
+1a hejk
+1b history | head -n 6 | tail -5

@@ -1,0 +1,46 @@
+totalt 1368
+drwxr-xr-x  26 fredrik fredrik    4096 nov 16 16:14 .
+drwxr-xr-x   4 root    root       4096 nov 10 10:30 ..
+drwx------   3 fredrik fredrik    4096 okt 30 13:54 .adobe
+-rw-------   1 fredrik fredrik   18440 nov 16 14:12 .bash_history
+-rw-r--r--   1 fredrik fredrik     220 sep 13 10:39 .bash_logout
+-rw-r--r--   1 fredrik fredrik    3771 sep 13 10:39 .bashrc
+drwxr-xr-x   2 fredrik fredrik    4096 nov 16 14:28 Bilder
+drwxrwxr-x  19 fredrik fredrik    4096 nov 16 16:12 .cache
+drwxrwxr-x   2 fredrik fredrik    4096 sep 19 10:17 .cat_installer
+drwx------  17 fredrik fredrik    4096 nov 16 16:14 .config
+drwx------   3 fredrik fredrik    4096 sep 13 10:43 .dbus
+drwxr-xr-x   2 fredrik fredrik    4096 sep 22 16:55 Dokument
+lrwxrwxrwx   1 fredrik fredrik       7 nov 16 16:14 Garbage Bin -> trash:/
+drwx------   2 fredrik fredrik    4096 nov 15 10:17 .gconf
+-rw-rw-r--   1 fredrik fredrik      59 okt 13 22:57 .gitconfig
+-rw-r-----   1 fredrik fredrik       0 nov 16 13:52 .gksu.lock
+-rw-rw-r--   1 fredrik fredrik     336 sep 13 10:43 .gtkrc-2.0
+drwxr-xr-x   5 fredrik fredrik    4096 nov 16 13:50 Hämtningar
+drwxrwxr-x   3 fredrik fredrik    4096 sep 13 10:43 .kde
+-rw-------   1 fredrik fredrik      28 nov 15 11:27 .lesshst
+drwxr-xr-x   3 fredrik fredrik    4096 sep 13 10:43 .local
+drwx------   3 fredrik fredrik    4096 okt 30 13:54 .macromedia
+drwxr-xr-x   2 fredrik fredrik    4096 sep 13 10:43 Mallar
+drwx------   4 fredrik fredrik    4096 sep 13 10:44 .mozilla
+drwxr-xr-x   2 fredrik fredrik    4096 sep 13 10:43 Musik
+-rw-rw-r--   1 fredrik fredrik       0 nov 10 10:28 mysqld
+-rw-------   1 fredrik fredrik     556 nov 10 11:06 .mysql_history
+-rw-rw-r--   1 fredrik fredrik      56 nov 10 10:23 mysql-init
+drwxrwxr-x   2 fredrik fredrik    4096 nov 10 10:23 .nano
+drwxrwxr-x 162 fredrik fredrik    4096 sep 29 10:30 node_modules
+-rw-------   1 fredrik fredrik       3 sep 29 10:30 .node_repl_history
+drwxrwxr-x 165 fredrik fredrik    4096 okt  2 13:29 .npm
+drwx------   3 fredrik fredrik    4096 sep 13 11:11 .pki
+-rw-r--r--   1 fredrik fredrik     655 sep 13 10:39 .profile
+drwxr-xr-x   2 fredrik fredrik    4096 sep 13 10:43 Publikt
+-rw-------   1 fredrik fredrik    1494 okt 20 16:48 .recently-used
+lrwxrwxrwx   1 fredrik fredrik       1 nov 16 16:13 Root -> /
+drwxrwxr-x  14 fredrik fredrik    4096 nov 10 10:17 Skola
+drwxr-xr-x   3 fredrik fredrik    4096 nov 16 13:51 Skrivbord
+-rw-r--r--   1 fredrik fredrik       0 sep 13 11:44 .sudo_as_admin_successful
+-rw-rw-r--   1 fredrik fredrik      36 nov 15 11:46 test
+drwxr-xr-x   2 fredrik fredrik    4096 sep 13 10:43 Video
+drwxrwxr-x   3 fredrik fredrik    4096 sep 13 11:11 .vscode
+-rw-------   1 fredrik fredrik      53 nov 15 10:12 .Xauthority
+-rw-------   1 fredrik fredrik 1220251 nov 16 16:14 .xsession-errors

@@ -1,0 +1,7 @@
+2a unix  3      [ ]         STREAM     CONNECTED     2636     
+2a unix  3      [ ]         STREAM     CONNECTED     29969    
+2a unix  3      [ ]         STREAM     CONNECTED     28976    /run/systemd/journal/stdout
+2a unix  3      [ ]         STREAM     CONNECTED     133041   
+2a unix  3      [ ]         STREAM     CONNECTED     37206    
+2a unix  3      [ ]         STREAM     CONNECTED     29961    /var/run/dbus/system_bus_socket
+2b netstat | awk 'NR>1' | tail -n 6

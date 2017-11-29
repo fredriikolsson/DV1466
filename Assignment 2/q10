@@ -1,0 +1,6 @@
+10a 25395
+10a 29127
+10a 41945
+10a 0
+10a 41944
+10b cat netcopy.txt | awk '(NR > 2 && $7 == "root") {print $8}'

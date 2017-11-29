@@ -1,0 +1,6 @@
+1a    49  ls
+1a    50  cd DV1556/
+1a    51  ls
+1a    52  tar -xvzf helpfiles.tgz 
+1a    53  ls
+1b cat histcopy.txt | head -n 6 | tail -n +2

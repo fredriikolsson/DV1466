@@ -1,0 +1,2 @@
+8a Root
+8b cat dircopy.txt | grep "^l" | sort -u | head -n 1 | awk '{print $9}'

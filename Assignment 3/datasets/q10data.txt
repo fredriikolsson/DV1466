@@ -1,0 +1,55 @@
+WHITE[->],
+NULLchi"000001fooNILLfoo$$$$$$3.14153[<-]\.fubarVOIDBLACKThuYellowtao$$$ Sat
+Orange
+NILL`$$Wed110110[->],011011`[->]/.OrangeWHITEBLACKJun $$'fubar[->].[->]/.Yellow
+3.1415Jun[->].pi'VOIDWHITE$NILLJul
+foo3.1415
+BLACKGreenVOID 
+Oct`blahRed111011foo$$Bluefootao
+MayVOIDNULLblahNILL110010blahJulWHITETue110001011001011101`$$$PurpleSunNovWHITE
+$$NULLYellow
+[->].[<-]/,3.1415
+foo[->].fubarRed
+[<-].WHITE001000"000111Orange' $
+WHITEblahVOID`2.83.14153NILL  [<-]/."$Jul2.8BLACK0110013.1415[<-]\.NILLFri[<-],
+[->]\.$$$Nov3.1415001010
+101010Wed1000003.14153PurpleWHITE $$[->]/,[<-].WHITEphiNILLOrangepi
+MayNULLSunBLACKVOIDchiYellow2.8[<-].000100BlueBlue[->]/,NILL$NILLpi[<-].101011
+[->]\,Orangechi[<-]/.fubar[<-].WHITE'
+3.143.1415VOIDphifoo$Aug3.1415"`$$$SunVOIDSatBLACKMar010010NILL101100'[<-]/.
+110111[<-]/,[<-]/,[->]\, WHITEpiBLACK[->]\.
+taoJanBLACK3.14WHITE$pi3.14[->],foo001000[<-]\.foo
+$JanNILL'piSun3.14153.14FebRed'BLACK $$$Dec001101NULL'BLACKRed010100Green$$$blah
+3.14153fubarBLACKNULLSun[->].FriVOID3.14153VOID
+Dec$$tao2.8 001000foo`pitao
+Aprfubar'Fri'"piNILLMay[<-]/.Aug'VOIDchi[->]\.[->],`NILLSunMonVOID[<-].BLACK 2.8
+Janblah3.14153"VOID$$$NULL011000phi101111Thu[<-]/,Blue[->].chi$$$BLACKBLACK[->].chi
+100000"Red"fubarSun`$$Wed"blah111110Thu
+fubarGreenOrange3.1415WHITEtaoNULLPurple Green"blah[->]\,0011103.14153Orange
+Orange[->]."
+PurpleFri$WHITE[<-]\,WHITEFriBlueThu111001pifubarTuephi$phitaofubar"BLACK110001
+[<-].tao$BLACK'MayWHITEMar3.14153[<-]\,JunBlueNULL[->].MonPurple"1111113.14153Jun
+[<-]/,`blah$$BLACKblahSatApr2.8VOID[<-]\,taotao$$OctWHITEfoo[<-]/.Sun1110113.14153.14
+2.8
+[<-].3.14BLACKFri2.8$$$Aug[<-].$Apr3.1415101110NULLphiBLACK001111fooNULLVOID$$$
+BLACK$$$Red011101[->].chitao110101'[->].[->]/,blah "Tue3.14101000NILL[->],'$$
+"`JunBLACK'011100fubarNULLWHITETueWHITERedfubar3.14153.1415 Purple$$piblahBlue
+blah[<-]\.[->],ThuWedMonBLACKApr
+foopichiDec2.8"$'Green$$010011010011NovBlue2.8Blue011001`BLACK blah[->]\.[<-].
+010001Nov[<-]\.fubar$000011 VOIDDec[<-].taoAugNULLNULLBlueAugNILLVOIDNULLMay011011Dec
+VOID"Blue[->]/.Yellow[<-].phi 111100$$011011`blah010010JanWed$$$Purple'"fooVOID`
+fubarJul
+Yellow[->],fubarYellowWHITE"WHITEtao''"piBlue 'fubarNILL[->]\,piTueBlueJulfubar
+Yellow3.14153WHITEblahRed2.8[->].
+$$$phi101101OctpiBLACKtaofoo[->],011010$taoFri$$
+2.8TueWHITE2.8100101 Blue000011'BLACKNILL[->].BLACK$foo1111103.141532.8$$NILLDec
+$$$NILL[->],JulPurpleBlueBLACKNILL$3.14153110110pi$DecWHITE$$VOIDfubar010111Yellow
+[->].
+2.8Sun`"100111$SunNILL[->],NULL011011$100101BLACK[<-]\.fubarWHITEpi[->]/,BLACK
+NULLBlue[<-]\,$2.8VOID3.14"$WHITEFeb`3.14153blahMon
+$$$fubarfubar$[->],101000phi$$$fubarMayNULLchiOct3.14153.1415
+000001110000$$chiphi[<-],NULLNILL[->]\,""BlueWed100110Dec$$blah
+3.14153WHITEBLACK101011
+""blahtao111101Orange'3.14153VOID$$$NILLBLACKblahBLACKDecBlue[<-]\,$010010
+3.14153RedJunOct[<-]\,fubarGreen[<-]\,3.14153BlueOrange" "$OctBLACKDecTuepipi blah
+[<-]/.Green3.1415[->]/,000111BLACKDecJun

@@ -1,0 +1,1000 @@
+   48  cd Skola
+   49  ls
+   50  cd DV1556/
+   51  ls
+   52  tar -xvzf helpfiles.tgz 
+   53  ls
+   54  cd helpfiles/
+   55  lsz
+   56  ls
+   57  code .
+   58  make
+   59  ls
+   60  make
+   61  make'
+   62  make
+   63  make Makefile
+   64  ls
+   65  Makefile
+   66  make
+   67  sudo apt-get install build-essential 
+   68  make
+   69  ls
+   70  ./seq_freq_an.out 
+   71  touch smallText.txt
+   72  ls
+   73  ./seq_freq_an.out 
+   74  code .
+   75  ./seq_freq_an.out 
+   76  touch bigText.txt
+   77  ls
+   78  dolphin .
+   79  ls
+   80  ./repeatfile.sh 
+   81  ./repeatfile.sh bigText.txt biggerText.txt 55
+   82  ls -lh
+   83  ./seq_freq_an.out 
+   84  make
+   85  ./seq_freq_an.out 
+   86  make
+   87  ./seq_freq_an.out 
+   88  make
+   89  mmake
+   90  make
+   91  ./seq_freq_an.out 
+   92  make
+   93  ./seq_freq_an.out 
+   94  make
+   95  ./seq_freq_an.out 
+   96  shtudown 0
+   97  shutdown 0
+   98  cd Skola/
+   99  ls
+  100  cd DV1556/
+  101  ls
+  102  cd helpfiles/
+  103  ls
+  104  code .
+  105  make
+  106  ./sq
+  107  ./seq_freq_an.out 
+  108  ls
+  109  cd Skola/
+  110  ls
+  111  cd DV1556/
+  112  ls
+  113  zip helpfiles
+  114  ls
+  115  zip -c helpfiles
+  116  ls
+  117  zip -a helpfiles
+  118  ls
+  119  zip --help
+  120  zip helpfiles labb2.zip
+  121  zip helpfiles labb2
+  122  zip labb2 helpfiles
+  123  ls
+  124  dolphin .
+  125  zip -r labb2 helpfiles
+  126  shutdown 0
+  127  cd Hämtningar/
+  128  ls
+  129  cd ..
+  130  mv Hämtningar/Lab-2.zip Skola/DV1556/
+  131  ls
+  132  cd Skola/
+  133  ls
+  134  cd DV1556
+  135  sqls
+  136  ls
+  137  cd Lab 2
+  138  ls
+  139  cd Lab 2
+  140  cd Lab\ 2
+  141  ls
+  142  cd hell
+  143  cd helpfiles/
+  144  ls
+  145  ./seq_freq_an.out 
+  146  make
+  147  ./seq_freq_an.out 
+  148  ls
+  149  cd SKol
+  150  cd Skola/
+  151  ls
+  152  cd DV1556/
+  153  ls
+  154  cd helpfiles/
+  155  ls
+  156  Laboration – Producer-Consumer
+  157  DV1556
+  158  1  Syfte
+  159  I den här laborationen får du träna på synkronisering mellan trådar med räknande sema-
+  160  forer samt undvikande av kapplöpning mellan trådar med hjälp av mutexvariabler.
+  161  2  Förberedande uppgift
+  162  Läs noga i boken om producer-consumer-problemet och om räknande semaforer, kap 2.3.4
+  163  - 2.3.6
+  164  3  Semaforer i POSIX
+  165  POSIX semaforer som kan vara räknande, dvs de kan anta ett godtyckligt positivt heltals-
+  166  värde, (datatypen
+  167  sem_t
+  168  ). De används huvudsakligen för signalering mellan trådar eller
+  169  processer för att synkronisera dem. Till skillnad från mutexvariabler kan en annan pro-
+  170  cess/tråd än den som utfört
+  171  sem_wait() på semaforen signalera den med
+  172  sem_post() (användbart för att exempelvis lösa producer-consumer-problemet). För att använda PO-
+  173  SIX semaforer måste headerfilen
+  174  semaphore.h
+  175  inkluderas i programmet. Innan en semafor
+  176  kan användas måste den initieras med
+  177  sem_init
+  178  , där flaggan
+  179  pshared
+  180  ska vara 0 och det
+  181  tredje argumentet ska vara semaforens initialvärde.
+  182  1
+  183  int
+  184  sem_init(sem_t *sem,
+  185  int
+  186  pshared,
+  187  unsigned int
+  188  value);
+  189  //initiate to value
+  190  2
+  191  int
+  192  sem_wait(sem_t *sem);
+  193  //semaphore down
+  194  3
+  195  int
+  196  sem_post(sem_t *sem);
+  197  //semaphore up
+  198  4  Redovisning
+  199  Laborationsuppgiften görs lämpligen i grupper om två. Annan gruppstorlek ska beviljas av
+  200  ls
+  201  cd ..
+  202  ls
+  203  zip -u Lab-2.zip 
+  204  ls
+  205  zip Lab-2.zip 
+  206  ls
+  207  zip -h Lab-2.zip 
+  208  dolphin
+  209  ls
+  210  cd Lab\ 2/
+  211  ls
+  212  cd helpfiles/
+  213  ls
+  214  cd Examples/
+  215  ls
+  216  cd -
+  217  cd .
+  218  chmod seq_freq_an.out 
+  219  chmod +x seq_freq_an.out 
+  220  ls
+  221  chmod +x repeatfile.sh 
+  222  ls
+  223  ./repeatfile.sh bigText.txt biggerText.txt 55
+  224  ls
+  225  ls -hl
+  226  code .
+  227  make
+  228  ls
+  229  ./seq_freq_an.out 
+  230  make
+  231  ./seq_freq_an.out 
+  232  make
+  233  ./seq_freq_an.out 
+  234  make
+  235  ./seq_freq_an.out 
+  236  make
+  237  ./seq_freq_an.out 
+  238  make
+  239  ./seq_freq_an.out 
+  240  make
+  241  ./seq_freq_an.out 
+  242  make
+  243  ./seq_freq_an.out 
+  244  make
+  245  ./seq_freq_an.out 
+  246  make
+  247  ./seq_freq_an.out 
+  248  make
+  249  ./seq_freq_an.out 
+  250  make
+  251  ./seq_freq_an.out 
+  252  cd ..
+  253  mkdir Lab\ 3/
+  254  ls
+  255  cd Lab\ 3/
+  256  ös
+  257  ls
+  258  touch supermarket.c
+  259  ls
+  260  code .
+  261  ls
+  262  cd ..
+  263  cd Lab\ 2
+  264  ls
+  265  cd helpfiles/
+  266  ls
+  267  code .
+  268  cd ...
+  269  cd .. ..
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd Lab\ 3
+  274  ls
+  275  gcc -g -o super supermarket.c
+  276  ls
+  277  ./super 
+  278  ./super 5 3
+  279  ./super 
+  280  gcc -g -o super supermarket.c
+  281  ./super 5 3
+  282  node
+  283  npm
+  284  npm install nodemon
+  285  ls
+  286  cd Skola/
+  287  ls
+  288  cd ProjectIQ/
+  289  ls
+  290  nodemon bin/www 
+  291  npm install nodemon
+  292  nodemon bin/www
+  293  sudo npm install nodemon
+  294  sudo npm install nodemon -g
+  295  sudo npm -g install nodemon
+  296  nodemon bin/www
+  297  sudo apt-get purge libreoffice-impress 
+  298  sudo apt-get install libreoffice-impress
+  299  cd Skola/
+  300  ls
+  301  cd ProjectIQ/
+  302  ls
+  303  nodemon bin/www
+  304  code -
+  305  code .
+  306  nodemon bin/www
+  307  dolphin .
+  308  nodemon bin/www
+  309  dolphin .
+  310  ls
+  311  cd Skola/
+  312  ls
+  313  cd 
+  314  ls
+  315  cd DV1556/
+  316  ös
+  317  ls
+  318  cd Lab\ 2
+  319  cd ..
+  320  ls
+  321  mkdir Project
+  322  ls
+  323  cd Project/
+  324  ls
+  325  code .
+  326  make al
+  327  make all
+  328  ls
+  329  ls bin/
+  330  cd bom
+  331  cd binm
+  332  ös
+  333  cd bin
+  334  ls
+  335  ./shell 
+  336  ls
+  337  cd ..
+  338  ls
+  339  dolphin .
+  340  ls
+  341  code .
+  342  ls
+  343  gcc -g supermarket.c 
+  344  ls
+  345  rm super
+  346  ls
+  347  rm super
+  348  gcc -g supermarket.c 
+  349  gcc -g -std=c99 supermarket.c -lphtread
+  350  cd ..
+  351  ls
+  352  cd Lab\ 2
+  353  ls
+  354  code helpfiles/
+  355  cd ..
+  356  cd Lab 3
+  357  cd Lab\ 3/
+  358  ls
+  359  gcc -g -std=c99 supermarket.c -lphtread
+  360  gcc -g -std=c99 supermarket.c -lpthread
+  361  ls
+  362  ./a.out 
+  363  ./a.out 5 3
+  364  gcc -g -std=c99 supermarket.c -lpthread
+  365  ./a.out 5 3
+  366  gcc -g -std=c99 supermarket.c -lpthread
+  367  ./a.out 5 3
+  368  gcc -g -std=c99 supermarket.c -lpthread
+  369  ./a.out 5 3
+  370  gcc -g -std=c99 supermarket.c -lpthread
+  371  ./a.out 5 
+  372  ./a.out
+  373  gcc -g -std=c99 supermarket.c -lpthread
+  374  ./a.out
+  375  gcc -g -std=c99 supermarket.c -lpthread
+  376  ./a.out
+  377  gcc -g -std=c99 supermarket.c -lpthread
+  378  ./a.out
+  379  ./a.out 5 3
+  380  gcc -g -std=c99 supermarket.c -lpthread
+  381  ./a.out 5 3
+  382  gcc -g -std=c99 supermarket.c -lpthread
+  383  ./a.out 2 5
+  384  ./a.out 10 2
+  385  gcc -g -std=c99 supermarket.c -lpthread
+  386  ./a.out 10 2
+  387  cd --
+  388  cd Skola/
+  389  ls
+  390  cd DV1556/
+  391  ls
+  392  cd Project/
+  393  ös
+  394  ls
+  395  code .
+  396  make all
+  397  ls
+  398  ./bin/shell 
+  399  shutdown 0
+  400  sudo apt-get update
+  401  sudo apt-get upgrade
+  402  sudo apt-get dist-upgrade 
+  403  ls
+  404  cd Skola/
+  405  cd ProjectIQ/
+  406  ls
+  407  cd ..
+  408  rm -r ProjectIQ/
+  409  git clone https://github.com/fredriikolsson/ProjectIQ.git
+  410  ls
+  411  cd ProjectIQ/
+  412  git status
+  413  code .
+  414  ls
+  415  cd Docs/
+  416  ./intro.jpg
+  417  gewnview intro.jpg
+  418  gwenview intro.jpg
+  419  gwenview intro.jpgls
+  420  ls
+  421  libreoffice Inlämning\ 2.odt
+  422  git status
+  423  git add Docs/*
+  424  ls
+  425  cd ..
+  426  git status
+  427  git add Docs/*
+  428  git commit -m "Leverans 2"
+  429  git remote add ProjectIQ https://github.com/fredriikolsson/ProjectIQ.git
+  430  git push ProjectIQ
+  431  ls
+  432  git status
+  433  git commit -m "Leverans 2"
+  434  git config --gloval user.email fredde665@gmail.com
+  435  git config --global user.email fredde665@gmail.com
+  436  git config --global user.name fredriikolsson
+  437  git commit -m "Leverans 2"
+  438  git push ProjectIQ
+  439  sudo apt-get update
+  440  sudo apt-get dist-upgrade 
+  441  sudo apt autoremove 
+  442  shutdown 0
+  443  sudo apt-get purge setbfree 
+  444  sudo apt-get update
+  445  sudo apt-get upgrade
+  446  sudo apt-get dist-upgrade 
+  447  sudo apt autoremove 
+  448  ls
+  449  make
+  450  MAKE
+  451  make
+  452  MAKE
+  453  Make
+  454  make
+  455  makemake
+  456  make
+  457  alsa
+  458  alsa-mixer
+  459  alsamixer
+  460  pulseaudio
+  461  pulseaudio-equalizer
+  462  pulseaduio-eq
+  463  sudo apt-get install pulseaudio-eq
+  464  sudo add-apt-repository ppa:alex-wv/pulseaudio-equalizer-ppa
+  465  sudo apt-get update'
+  466  ;
+  467  sudo apt-get update
+  468  sudo apt-get install pulseaudio-equalizer
+  469  sudo add-apt-repository ppa:alex-wv/pulseaudio-equalizer-ppa
+  470  sudo apt-get update
+  471  sudo apt-get install pulseaudio-equalizer
+  472  sudo apt-get install ppa-purge
+  473  sudo ppa-purge ppa:alex-wv/pulseaudio-equalizer-ppa
+  474  sudo add-apt-repository --remove ppa:alex-wv/pulseaudio-equalizer-ppa
+  475  # sudo add-apt-repository ppa:nilarimogard/webupd8
+  476  sudo add-apt-repository ppa:nilarimogard/webupd8
+  477  sudo apt-get update
+  478  sudo apt-get install pulseaudio-equalizer
+  479  pulseaudio-equalizer
+  480  pulseaudio-equalizer enable-confi
+  481  pulseaudio-equalizer
+  482  ls
+  483  cd Sk
+  484  cd Skola/
+  485  ls
+  486  cd DV1556/
+  487  ls
+  488  ls Project/
+  489  rm -r Project/
+  490  cd ..
+  491  git clone https://github.com/fredriikolsson/DV1556.git
+  492  mv DV1556/ DV1556_backup/
+  493  ls
+  494  git clone https://github.com/fredriikolsson/DV1556.git
+  495  cd DV1556
+  496  ls
+  497  code .
+  498  ls
+  499  make
+  500  git status
+  501  git add src/*
+  502  git commit -m "Class updates - Does not compile"
+  503  git push ProjectIQ master
+  504  git push ProjectIq
+  505  git push ProjectIq master
+  506  git push ProjectIQ
+  507  git push DV1556 master
+  508  git push DV1556
+  509  ls
+  510  git push https://github.com/fredriikolsson/DV1556.git
+  511  shutdown 0
+  512  make
+  513  make
+  514  ls
+  515  ./bin/shell 
+  516  cd Hämtningar/
+  517  ls
+  518  zip Filesystem.zip 
+  519  zip -u Filesystem.zip 
+  520  ös
+  521  ls
+  522  ls Uppgifter/
+  523  zip -h
+  524  unzip
+  525  unzip Filesystem.zip 
+  526  ls
+  527  cd Filesystem/
+  528  ls
+  529  make
+  530  code .
+  531  sudo apt autoremove 
+  532  crete hej
+  533  create hej
+  534  ös
+  535  ls
+  536  unzip Filesystem.zip 
+  537  cd Filesystem/
+  538  ls
+  539  make
+  540  ls
+  541  cd src
+  542  ls
+  543  rm Folder
+  544  rm Folder.*
+  545  rm FileSystemObject.h 
+  546  cd ..
+  547  make
+  548  ls
+  549  ./bin/shell 
+  550  shutdown 0
+  551  sudo apt-get update
+  552  sudo apt-get upgrade
+  553  sudo apt-get dist-upgrade 
+  554  sudo apt-get autoremove 
+  555  ls
+  556  l
+  557  la
+  558  l
+  559  la
+  560  ls -a
+  561  la
+  562  ls
+  563  la
+  564  ls
+  565  clear
+  566  tree
+  567  ls
+  568  cd Hämtningar/
+  569  ls
+  570  cd ..
+  571  mv Hämtningar/Coursework_1.zip Skola/DV1466
+  572  ls
+  573  cd Skola/
+  574  ls
+  575  mv DV1466 Coursework_1.zip
+  576  ls
+  577  mkdir DV1466
+  578  ls
+  579  unzip Coursework_1.zip DV1466/
+  580  ls
+  581  ls DV1466/
+  582  ls
+  583  dolphin .
+  584  ls
+  585  cd sandbox/
+  586  ls
+  587  cd mixed/elsewhere/
+  588  ls
+  589  cd unclassified/
+  590  ls
+  591  cd doesntQuiteFit/
+  592  ls
+  593  cd ..
+  594  ls -l
+  595  cd ..
+  596  ls
+  597  ls -l
+  598  cd ..
+  599  ls -l
+  600  ls
+  601  tree
+  602  sudo apt install tre
+  603  sudo apt install tree
+  604  tree
+  605  ös
+  606  ls
+  607  cd elsewhere/
+  608  ös
+  609  la
+  610  cd unclassified/
+  611  ls -s
+  612  ls
+  613  ls -sr
+  614  ls -R
+  615  ls -r
+  616  ls -sR
+  617  ls -s
+  618  ls
+  619  ls -s
+  620  tree
+  621  du -hcs 
+  622  man ls
+  623  220
+  624  call
+  625  reset
+  626  lfd
+  627  reset
+  628  ls
+  629  sl
+  630  POST
+  631  curl
+  632  ls
+  633  cd Sk
+  634  cd Skola/
+  635  ls
+  636  cd DV1466/
+  637  ls
+  638  code .
+  639  cd sandbox
+  640  ls
+  641  code .
+  642  cd Sk
+  643  cd Skola/
+  644  ls
+  645  cd DV1446
+  646  ös
+  647  cd 14
+  648  cd DV1466/
+  649  ls
+  650  cd sandbox
+  651  ös
+  652  ls
+  653  code .
+  654  cd ..
+  655  code .
+  656  cd sandbox/
+  657  find . -mindepth 5 -type d | head -n1
+  658  find . -mindepth 5 -type d
+  659  find . -mindepth 5 -type d | sort
+  660  find . -mindepth 5 -type d | sort | head -n1
+  661  man du
+  662  man ls
+  663  man find
+  664  cd Skola/ProjectIQ/
+  665  cd ..
+  666  cd Qt\ Project/
+  667  ls
+  668  code .
+  669  code maxTest.h
+  670  code maxTest.cpp
+  671  cd sandbox/
+  672  ls
+  673  du
+  674  du mixed/elsewhere/unclassified/
+  675  du -c mixed/elsewhere/unclassified/
+  676  du -B mixed/elsewhere/unclassified/
+  677  du -b mixed/elsewhere/unclassified/
+  678  du -bc mixed/elsewhere/unclassified/
+  679  du -bc mixed/
+  680  du -Bc mixed/
+  681  du -B mixed/
+  682  du -k mixed/
+  683  ls
+  684  du -B mixed/
+  685  du -k mixed/
+  686  du -bc mixed/elsewhere/unclassified/
+  687  du -kc mixed/elsewhere/unclassified/
+  688  du -kc mixed/elsewhere/
+  689  du -kc mixed/elsewhere
+  690  du -kc mixed/elsewhere/
+  691  du -kc mixed/
+  692  du -kc mixed/*
+  693  ls -r
+  694  ls -R
+  695  ls -c
+  696  ls | wc -l
+  697  ls mixed/ | wc -l
+  698  ls
+  699  du -b mixed/elsewhere/unclassified/deadpresidents/
+  700  13b tree -s mixed/elsewhere/unclassified/deadpresidents
+  701  tree -s mixed/elsewhere/unclassified/deadpresidents
+  702  du -b mixed/elsewhere/unclassified/deadpresidents/
+  703  ls -s mixed/elsewhere/unclassified/deadpresidents
+  704  ls -l mixed/elsewhere/unclassified/deadpresidents
+  705  ls -lc mixed/elsewhere/unclassified/deadpresidents
+  706  ls --block-size=1  mixed/elsewhere/unclassified/deadpresidents
+  707  ls -l mixed/elsewhere/unclassified/deadpresidents
+  708  tree -s celestialmotion/
+  709  ls -l celestialmotion/
+  710  ls -lR celestialmotion/
+  711  ls -l celestialmotion/*
+  712  find celestialmotion/ -size c -type file
+  713  find celestialmotion/ -size n -type file
+  714  find celestialmotion/ -size -type file
+  715  find celestialmotion/ -size c -type file
+  716  ls
+  717  cd ..
+  718  ls
+  719  tar -czf sandbox.tgz report.txt 
+  720  ls
+  721  dolphin .
+  722  ls
+  723  rm sandbox
+  724  rm sandbox.tgz 
+  725  tar -czf sandbox.tgz report.txt 
+  726  ls
+  727  cd sandbox/
+  728  ls
+  729  rm sandbox.tgz 
+  730  cd ..
+  731  rm sandbox.tgz 
+  732  tar -czf sandbox.tgz report.txt 
+  733  du -kc sandbox/mixed/elsewhere/
+  734  du -kc sandbox/mixed/
+  735  du -kc sandbox/mixed/*
+  736  rm sandbox.tgz 
+  737  tar -czf sandbox.tgz report.txt 
+  738  rm sandbox.tgz 
+  739  ls -R sandbox/
+  740  cd sandbox/
+  741  find . -type d -mindepth 6
+  742  find . -mindepth 6 -type d
+  743  find . -mindepth 5 -type d
+  744  find . -mindepth 5 -type d -head
+  745  find . -mindepth 5 -type d | -tail
+  746  find . -mindepth 5 -type d | tail
+  747  find . -mindepth 5 -type d | head
+  748  find . -mindepth 5 -type d | head = 1
+  749  find . -mindepth 5 -type d | head 1
+  750  find . -mindepth 5 -type d | head -1
+  751  find . -mindepth 5 -type d | head -n1
+  752  find celestialmotion/ -type f -printf '%s\n'
+  753  ls -lR celestialmotion/*
+  754  find ./* -type d | wc -l
+  755  find ./* -type f | wc -l
+  756  cd ..
+  757  ls
+  758  rm sandbox.tgz 
+  759  tar -czf sandbox.tgz report.txt 
+  760  rm sandbox.tgz 
+  761  tar -czf sandbox.tgz report.txt 
+  762  rm sandbox.tgz 
+  763  tar -czf sandbox.tgz report.txt 
+  764  cd sandbox/
+  765  find . -mindepth 5 -type d | head -n1
+  766  find . -mindepth 5 -type d | sort | head -n1
+  767  cd .
+  768  cd ..
+  769  ls
+  770  rm sandbox
+  771  rm sandbox.tgz 
+  772  ls
+  773  tgz -czf sandbox.tgz report.txt 
+  774  tar -czf sandbox.tgz report.txt 
+  775  ls
+  776  code .
+  777  sudo npm install
+  778  nodemon
+  779  mysql
+  780  mysql -u root
+  781  mysql -u root -p
+  782  touch mysql-init
+  783  nano mysql-init 
+  784  mysqld --init-file=/home/me/mysql-init &
+  785  ls
+  786  mysql -u root -p
+  787  sudo apt-get update
+  788  sudo apt-get purge mysql-server
+  789  sudo apt-get install mysql-
+  790  sudo apt-get purge mysql-server
+  791  sudo apt-get purge mysql-client-
+  792  sudo apt-get purge mysql-client-core-5.7 
+  793  sudo apt-get install mysql-client-core-5.7 
+  794  sudo apt-get purge mysql-client-core-5.7 
+  795  sudo apt-get purge mysql-server-core-5.7 
+  796  sudo apt-get purge mysql-common 
+  797  mysql
+  798  sudo apt-get install mysql-client-core-5.7
+  799  shell> mysqld --init-file=/home/mysql-init &
+  800  mysqld --init-file=/home/mysql-init &
+  801  sudo apt-get install mysql-server-core-5.7
+  802  mysqld --init-file=/home/mysql-init &
+  803  mysqld --init-file=./mysql-init &
+  804  ls
+  805  mysql
+  806  sudo apt-get purge mysql-
+  807  sudo apt-get purge mysql-client-core-5.7 
+  808  sudo apt-get purge mysql-server-core-5.7 
+  809  sudo apt-get ppapurge
+  810  sudo apt-get install ppapurge
+  811  sudo apt-get install ppa-purge 
+  812  fdisk -l
+  813  fdisk -1
+  814  fdisk --1.0 points
+  815  8aWhat is the name of the smallest symbolic link in your directory listing?
+  816  8bWhat shell command-line did you use?
+  817  8cOptional: any comments on your approach (including any external sources) ?
+  818  QExtracting the fields of history records filtered by another.1.0 points
+  819  9aWhat is the set of values in the index-number field of the command-lines that included the string "ls"?
+  820  9aWhat is the set of values in the index-number fiel
+  821  fdisk -1
+  822  fdisk -l
+  823  sudo fdisk -1
+  824  sudo fdisk -l
+  825  fdisk -l
+  826  df
+  827  sudo umount /dev/sdb1 
+  828  mkfs.vfat /dev/sdb1
+  829  sud omkfs.vfat /dev/sdb1
+  830  sudo mkfs.vfat /dev/sdb1
+  831  mount /dev/sdb1
+  832  ds
+  833  df
+  834  top
+  835  quit
+  836  history
+  837  ps
+  838  man history
+  839  nano ~/.history
+  840  man history
+  841  history
+  842  history !
+  843  history 
+  844  history | grep 2
+  845  history | grep 2*
+  846  history | grep *2*
+  847  history | grep 
+  848  history | grep -n2 
+  849  history | grep -n2
+  850  history | grep -n1
+  851  history | grep -n 
+  852  history | grep -n 1
+  853  history | grep -n 2
+  854  ps
+  855  ps aux
+  856  ls
+  857  l
+  858  history | head 
+  859  history | head -n 6
+  860  history | head -n 6 | tail -n -3
+  861  history | head -n 6 | tail -n -2
+  862  history | head -n 6 | tail -n -4
+  863  history | head -n 6 | tail -n -5
+  864  history | head -n 6 | tail -5
+  865  sudo apt-get upgrade
+  866  sudo apt-get dist-upgrade 
+  867  sudo apt-get autoremove 
+  868  ls
+  869  cd Skola/
+  870  ls
+  871  cd DV1466/
+  872  ös
+  873  ls
+  874  mkdir Assignment\ 1
+  875  ls
+  876  mv * Assignment\ 1/
+  877  ls
+  878  mkdir Assignment\ 2
+  879  ls
+  880  cd Assignment\ 2/
+  881  ls
+  882  touch report.txt
+  883  touch pscopy.txt
+  884  touch netcopy.txt
+  885  touch dircopy.txt
+  886  touch histcopy.txt
+  887  ls
+  888  code .
+  889  ps aux > pscopy.txt 
+  890  cat pscopy.txt 
+  891  netstat -tWae > netcopy.txt 
+  892  cat netcopy.txt 
+  893  ls -al > dircopy.txt 
+  894  cat dircopy.txt 
+  895  rm test 
+  896  ls -al > dircopy.txt 
+  897  ls
+  898  cat dircopy.txt 
+  899  cd 
+  900  ls
+  901  ls -al
+  902  ls -al > Skola/DV1466/Assignment\ 2/dircopy.txt 
+  903  man sefd
+  904  history | head -n 6 | tail -5
+  905  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo -ne '4b ' history | head -n 6 | tail -5 >>  test
+  906  ls
+  907  cat test 
+  908  l
+  909  ls
+  910  dolphin .
+  911  info sed
+  912  ls
+  913  cat test
+  914  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo -ne '4b ' history | head -n 6 | tail -5 >>  test
+  915  cat test
+  916  ls
+  917  history | head -n 6 | tail -5
+  918  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo -ne '4b ' history | head -n 6 | tail -5 >>  test
+  919  history | head -n 6 | tail -5
+  920  echo -ne '1a ' > test ; hi
+  921  cat test
+  922  history | head -n 6 | tail -5
+  923  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo '4b !!'  >>  test
+  924  cat test
+  925  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo "4b cat testz"  >>  test
+  926  cat testz
+  927  cat test
+  928  history | head -n 6 | tail -5
+  929  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo "4b history | head -n 6 | tail -5"  >>  test
+  930  history | head -n 6 | tail -5
+  931  echo -ne '1a ' > test ; tr -s history | head -n 6 | tail -5 ; echo "4b history | head -n 6 | tail -5"  >>  test
+  932  history | head -n 6 | tail -5
+  933  echo -ne '1a ' > test ; tr -s "history | head -n 6 | tail -5" ; echo "4b history | head -n 6 | tail -5"  >>  test
+  934  history | head -n 6 | tail -5
+  935  cat test
+  936  echo -ne '1a ' > test ; tr -s "history | head -n 6 | tail -5" ; echo "4b history | head -n 6 | tail -5"  >>  test
+  937  history | head -n 6 | tail -5
+  938  echo -ne '1a ' > test ; sed "history | head -n 6 | tail -5" ; echo "4b history | head -n 6 | tail -5"  >>  test
+  939  history | head -n 6 | tail -5
+  940  ls
+  941  cat tets
+  942  cat test
+  943  ls
+  944  cd Skola/
+  945  ls
+  946  cd DV1466/
+  947  ls
+  948  cd Assignment\ 
+  949  cd Assignment\  2
+  950  cd Assignment\ 2
+  951  ls
+  952  history | head -n 6 | tail -5
+  953  awk
+  954  awl
+  955  history | head -n 6 | tail -5
+  956  cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk '!!' >> test
+  957  cat test | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk '!!' >> test" | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk '!!' >> test" >> test
+  958  history | head -n 6 | tail -5
+  959  cat test | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk 'history | head -n 6 | tail -5' >> test" | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk 'history | head -n 6 | tail -5' >> test" >> test
+  960  cat test | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk 'cat test | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk 'history | head -n 6 | tail -5' >> test" | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk "cat test | awk history | head -n 6 | tail -5 | sed 's/^\(.*\)$/1a \1/' > test; echo "1b history | head -n 6 | tail -5" | awk 'history | head -n 6 | tail -5' >> test" >> test' >> test" | sed '
+  961  cat test
+  962  ös
+  963  ls
+  964  history | head -n 6 | tail -5
+  965  echo -ne '1a ' > test ; history | head -n 6 | tail -5 >>test ; echo -ne '4b ' history | head -n 6 | tail -5>>  test
+  966  ls
+  967  cat test
+  968  cat dircopy.txt 
+  969  echo awk
+  970  echo echo awkawk
+  971  echo echo echo awkawkecho echo awkawkecho echo awkawkecho echo awkawkecho echo awkawkawkawk
+  972  ls
+  973  cat dircopy.txt 
+  974  grep '^drwx'
+  975  awk '/*^drwx/{print $0}'
+  976  awk '/*^ls/{print $0}'
+  977  awk '/^drwx/{print $0}'
+  978  history | head -n 6 | tail -5
+  979  history | head -n 6 | tail -n +3
+  980  history | head -n 6 | tail -n +2
+  981  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -ne "1b history | head -n 6 | tail -n +2"  >> q1
+  982  cat q1
+  983  man sed
+  984  ls
+  985  cd Skola/
+  986  ls
+  987  cd DV1466/
+  988  ös
+  989  ls
+  990  cd Assignment\ 2/
+  991  ls
+  992  history | head -n 6 | tail -n +2
+  993  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -ne "1b history | head -n 6 | tail -n +2"  >> q1
+  994  cat q1
+  995  history | head -n 6 | tail -n +2
+  996  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -ne "1b history | head -n 6 | tail -n +2"  >> q1 ; echo -ne "1c Jag är en kommentar" >> q1
+  997  cat q1 
+  998  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -ne "1b history | head -n 6 | tail -n +2"  >> q1 ; echo -n "1c Jag är en kommentar" >> q1
+  999  cat q1 
+ 1000  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -ne "1b history | head -n 6 | tail -n +2"  >> q1 ; echo "1c Jag är en kommentar" >> q1
+ 1001  cat q1 
+ 1002  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -n "1b history | head -n 6 | tail -n +2"  >> q1 ; echo "1c Jag är en kommentar" >> q1
+ 1003  cat q1 
+ 1004  history | head -n 6 | tail -n +2
+ 1005  history | head -n 6
+ 1006  history | head -n 
+ 1007  history | head 
+ 1008  history | head
+ 1009  history
+ 1010  cat q1
+ 1011  cat q
+ 1012  history
+ 1013  history | head -n 6 | tail -n +2
+ 1014  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2 >> q1 ; echo -n "1b history | head -n 6 | tail -n +2"  >> q1
+ 1015  cat q1
+ 1016  history | head -n 6 | tail -n +2
+ 1017  echo -ne '1a ' > q1 ; history | head -n 6 | tail -n +2; echo -n "1b history | head -n 6 | tail -n +2"
+ 1018  history | head -n 6 | tail -n +2
+ 1019  history | head -n 6 | tail -n +2 | sed "s/^/1a "
+ 1020  history | head -n 6 | tail -n +2 | sed "s/^/1a /"
+ 1021  history | head -n 6 | tail -n +2 
+ 1022* 
+ 1023  cat q1 
+ 1024  history | head -n 6 | tail -n +2
+ 1025  '1b ' >> q1 || history | head -n 6 | tail -n +2 >> q1
+ 1026  cat q1 
+ 1027  code q1 
+ 1028  netstat
+ 1029* 
+ 1030  netstat | tail -n 6
+ 1031  netstat | tail -n 6 | sed "/s/'2a '/" > q2
+ 1032  netstat | tail -n 6 | sed "/s/2a /" > q2
+ 1033  netstat | tail -n 6 | sed "s/2a /" > q2
+ 1034  netstat | tail -n 6 | sed "/s/^/2a /" > q2
+ 1035  netstat | tail -n 6 | sed "s/^/2a /" > q2
+ 1036  cat q2
+ 1037  code q2
+ 1038  code q2085
+ 1039  awk '/^drwx/{print $0}'
+ 1040  ls
+ 1041  cat netcopy.txt 
+ 1042  cat netcopy.txt | grep -v "ESTABLISHED"
+ 1043  cat netcopy.txt | grep -v "ETABLERAT"
+ 1044  cat netcopy.txt | grep -v "ETABLERAd"
+ 1045  cat netcopy.txt | grep -v "ETABLERAD"
+ 1046  ls
+ 1047  history > histcopy.txt 

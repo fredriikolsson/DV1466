@@ -1,0 +1,17 @@
+6a D
+6a R+
+6a S
+6a S<
+6a S+
+6a Sl
+6a S<l
+6a SL
+6a SN
+6a SNl
+6a SNsl
+6a Ss
+6a Ss+
+6a Ssl
+6a Ssl+
+6a STAT
+6b cat pscopy.txt | awk '{print $8}' | sort -u

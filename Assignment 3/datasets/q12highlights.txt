@@ -1,0 +1,80 @@
+[97m'[91m(,)2918Edna[97mchi[97mNILL[97m"[97mBLACK
+[97mWHITE[97mBlue[97m$$$[97mBLACK[97mFri[91m(,)6760Harry
+[97m'[97mWHITE[97mOrange[97mWHITE[97m000011[91m(,)0589George
+[97mfubar[97m$$[97mApr[97m'[97mMon[91m(,)1278Edna
+[97m [97m [97mPurple[97m000100[97mNULL[91m(,)8149George
+[97mBLACK[97mtao[97mGreen[97mblah[91m(,)5638Phil[97mNILL
+[97mWHITE[97mBLACK[97mfubar[91m(,)3595Tom[97mAug[97mfubar
+[97mFri[97mpi[91m(,)5194Harry[97m[97mtao[97mtao
+[97mNULL[97mBlue[91m(,)6015Harry[97m'[97m$[97mchi
+[97m$$[97mNILL[97mVOID[91m(,)4759Harry[97m3.14153[97mphi
+[97m$$$[91m(,)2527Phil[97mSun[97m'[97m$[97mYellow
+[97mApr[97m'[91m(,)7115Tom[97m`[97m`[97mfoo
+[97mApr[97mBLACK[97mphi[91m(,)4500George[97m3.1415[97mNULL
+[91m(,)0869Phil[97mTue[97mfubar[97m$$$[97mFri[97mphi
+[97m`[91m(,)5095Harry[97mphi[97m000101[97mDec[97mFri
+[97m001111[97m3.14153[97mblah[91m(,)2387Harry[97m$$[97mBlue
+[97mPurple[97m010000[97m001010[97m$$$[97m"[91m(,)2496Phil
+[97mblah[97mGreen[97mFri[91m(,)3219Phil[97mchi[97m$
+[97m3.1415[91m(,)0545Phil[97mYellow[97m3.1415[97mfoo[97mRed
+[97mMay[97m'[91m(,)5125Edna[97m`[97m3.14[97mNov
+[97m[97mMay[97m$$$[97mFri[97m3.1415[91m(,)5780Edna
+[97mchi[97mSep[97m`[97mFri[91m(,)5375Phil[97mDec
+[91m(,)6468Harry[97mphi[97mBLACK[97m3.1415[97m"[97mSun
+[97m"[97m$[97m$[91m(,)0156Edna[97m3.14[97m001011
+[97m$$$[97mfoo[91m(,)6580George[97mfubar[97mpi[97m3.14153
+[97mtao[97mVOID[91m(,)6833Harry[97mblah[97mpi[97mphi
+[97mphi[97m3.1415[97mNULL[97mBlue[97m [91m(,)5118Phil
+[97m$$$[97mJul[97mJul[97m$$[91m(,)2635George[97mWHITE
+[97m$$$[91m(,)8854Tom[97mFri[97m"[97mJun[97m$$$
+[97m110011[97m`[97m [97mNILL[91m(,)2393Phil[97m
+[97m'[91m(,)3516George[97mchi[97mAug[97m3.14[97mphi
+[97m [97mBlue[97m3.14[91m(,)7646Phil[97mphi[97mTue
+[97m3.14[91m(,)8119Harry[97mMay[97mJul[97mMon[97m'
+[97mWHITE[91m(,)6360Tom[97mWHITE[97mphi[97m'[97m 
+[97m$$$[97mchi[97mGreen[91m(,)3494Edna[97m$$$[97mpi
+[97m'[91m(,)6617Tom[97mPurple[97mMon[97m`[97m$$$
+[97mRed[97m010001[97m$$[91m(,)8817Harry[97mOrange[97mRed
+[97mMar[97mBlue[97m`[91m(,)1661Phil[97mphi[97m`
+[97m[97mBLACK[97m`[91m(,)6844George[97mJul[97mWed
+[97mNov[97mSep[97mWed[97mtao[97mJun[91m(,)9557Tom
+[91m(,)5380Phil[97m`[97mVOID[97mWHITE[97m010101[97mJan
+[97mApr[97mWed[97mVOID[97mfubar[97mNILL[91m(,)7674Edna
+[97mFri[91m(,)2855Edna[97mFri[97m3.14[97mWHITE[97m
+[97m [97m$$[97mMar[97m`[91m(,)4387Harry[97mVOID
+[97mThu[97m001101[91m(,)9793Harry[97mBLACK[97mDec[97mNULL
+[91m(,)6587Edna[97m$[97m$[97mVOID[97m$$$[97m$$
+[97m3.14[91m(,)5760Harry[97mpi[97m$[97mfubar[97mBLACK
+[97m110110[91m(,)1237Edna[97mSun[97mtao[97mBLACK[97mPurple
+[97mWHITE[97m$$$[91m(,)7121George[97mMar[97mYellow[97mpi
+[97m [97mTue[91m(,)1630Tom[97m$[97mBlue[97m 
+[97mNULL[91m(,)9289Edna[97mApr[97m3.14[97m3.14153[97mSep
+[97m000111[97mfoo[97m[97mNULL[97m [91m(,)6739George
+[97m$$[97mWHITE[97m$$[91m(,)4884Tom[97m"[97mBLACK
+[97mtao[97mphi[91m(,)2524Phil[97m$$$[97m[97mpi
+[97m'[97m010111[97m$$$[91m(,)5744Harry[97mBLACK[97m$
+[91m(,)0435Phil[97m'[97mphi[97mfoo[97m [97mMay
+[97mTue[91m(,)8103Phil[97m$$[97mtao[97m [97mThu
+[97mpi[97mWHITE[97m3.14153[97mfoo[91m(,)1266Edna[97m'
+[97mJan[97mfubar[97m3.1415[97mBLACK[91m(,)4162Harry[97mfoo
+[97m$$$[97m$[91m(,)1681George[97mNULL[97mSat[97m$$
+[97mSat[97m3.14[97mchi[97m$[97mRed[91m(,)0643Harry
+[97mblah[97mtao[91m(,)3592George[97m [97mchi[97m$$$
+[97mphi[97mphi[97m110010[97mSep[97mTue[91m(,)5244Harry
+[97mGreen[97m3.1415[97m`[97mSun[97m[91m(,)7256Harry
+[97m [97m'[91m(,)4772Phil[97m3.14153[97mfubar[97mMay
+[97m011000[91m(,)1027Phil[97mchi[97m$$$[97mNULL[97mtao
+[97m [97m3.14[97mNULL[97m2.8[91m(,)9508Edna[97mchi
+[91m(,)4211Harry[97mFeb[97mfoo[97m010010[97mNILL[97mpi
+[97m2.8[91m(,)9370Phil[97mblah[97m[97mfoo[97mMon
+[97m111011[97mFeb[97mblah[91m(,)0961Edna[97mBLACK[97mphi
+[97m'[91m(,)4116Phil[97m3.1415[97m[97mGreen[97mtao
+[97m [97mFeb[91m(,)0891Tom[97m'[97mMar[97mNILL
+[97mfubar[97mWHITE[97mMon[97mWed[91m(,)2353George[97mThu
+[97mBLACK[91m(,)5653Edna[97mblah[97mFri[97mSat[97mNULL
+[97m3.14153[97mNULL[97m[97m [91m(,)4202Phil[97mNULL
+[97m[97mfoo[97mAug[97mtao[97mfubar[91m(,)0908Tom
+[91m(,)8451Edna[97m3.14153[97m100011[97mtao[97mNULL[97m3.14153
+[97mblah[97mYellow[97m$[91m(,)1010Tom[97mtao[97mMar
+[97mOrange[97mblah[97mphi[91m(,)1041Harry[97mThu[97mpi
+[97mWHITE[91m(,)3767Harry[97mBLACK[97m'[97mWHITE[97mVOID

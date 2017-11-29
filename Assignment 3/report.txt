@@ -1,0 +1,6 @@
+1a cat datasets/q1data.txt | grep -o '{::->}'
+1b The structure I found was two semicolons appearing with an arrow inside curly brackets.
+2a cat datasets/q2data.txt | grep -o '{/}/::'
+2b I found a strcutre where there was '{/}/::' scattered around.
+3a 
+3b 
