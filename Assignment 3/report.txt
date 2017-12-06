@@ -2,5 +2,33 @@
 1b The structure I found was two semicolons appearing with an arrow inside curly brackets.
 2a cat datasets/q2data.txt | grep -o '{/}/::'
 2b I found a strcutre where there was '{/}/::' scattered around.
-3a 
-3b 
+3a cat datasets/q3data.txt | grep -o '(/[A-Z][a-z]\+*)'
+3b I found a string of characters with one capital letter, and one or more lowercase letters inside parentheses after a forward slash.
+4a cat datasets/q4data.txt | grep -o ',->[0-9]\{4\}'
+4b I found ,-> followed by four numbers
+5a cat datasets/q5data.txt | grep -o '::::\|:;::;:\|:;:::\|:::;:'
+5b There was fours different patterns with colons and semicolons in either ::::, :;::;:, :;:::, :::;:
+6a grep -o '\([+-]\(Edna\|Tom\|George\|Phil\|Harry\)\)\{3\}' datasets/q6data.txt
+6b Found a + or - before one of the five different names, that followed three times
+7a cat datasets/q7data.txt | grep -o '\(Edna\|Tom\|Harry\|Phil\|George\)\{4\}'
+7b Five different names, with four of them directly after each other 
+8a cat datasets/q8data.txt | grep -o '{\(tokyo\|paris\|stockholm\)}\(\.\|,\|<-\.\|<-,\|->\.\|->,\)'
+8b I found tokyo, paris, or stockholm within curly brackets, followed by either a dot, comma, arrow to the left and dot, arrow to the left and comma, arrow to the right and dot, or arrow to the right and comma.
+9a cat datasets/q9data.txt | grep -o '{[0-9]\{4\}}\|\(Edna\|Harry\|Tom\|George\|Phil\)\(paris\|stockholm\|tokyo\)\(::\|:;:\)'
+9b I found four numbers inside curly brackets and I also found one out of the five names, directly followed by a city, and two colons or one colon, one semicolon, and one last colon.
+10a cat datasets/q10data.txt | grep -o '\[\(->\|<-\)\]\(/\.\|\\\.\|/,\|\\,\|\.\|,\)'
+10b Brackets with a right arrow or a left arrow inside, followed by a dot, comma, forward slash, backward slash, or a combination with dots and one of the different slashes, and the same for commas, where the slashes goes first
+11a cat datasets/q11data.txt | sed 's/^.*\(::->[0-9]\{4\}\).*$/,,George\1(\/,)/'
+11b I found two semicolons with a right arrow afterwards followed by a four digits. I also wanted to add ,,George before it and end the line with (/,) according to my target
+12a cat datasets/q12data.txt | sed 's/^.*\([0-9]\{4\}\(Tom\|Edna\|George\|Phil\|Harry\)\).*/\/\/Phil(,)\1->,->/'
+12b The pattern that I found was a sete of four numbers togheter with one of the five names. I added every four numbers and name to fit within //Phil(,) and ->,->
+13a cat datasets/q13data.txt | sed 's/^.*\(\(\[\(stockholm\|paris\|tokyo\)]\)\{2\}(\(paris\|tokyo\|stockholm\))\).*\(\(\[\(stockholm\|paris\|tokyo\)]\)\{2\}(\(paris\|tokyo\|stockholm\))\).*$/Edna\/,\1{,,}\5->::1103/'
+13b A pattern where there was two cities inside an own set of brackets, followed by a city withing a set of parentheses, afterwards there could be some set of characters and the pattern repeated itself but there could be different cities.
+14a cat datasets/q14data.txt | sed 's/^.*\((\(tokyo\|paris\|stockholm\)){\(tokyo\|paris\|stockholm\)}\).*\((\(tokyo\|paris\|stockholm\)){\(tokyo\|paris\|stockholm\)}\).*$/{->}Phil->\1{,},\/\4\[,,]/'
+14b The pattern for this question was a city within parentheses directly followed by another (or same) city but within brackets, then there could be characters afterwards, and then the same pattern repeated but it could be other cities.
+15a cat datasets/q15data.txt | sed 's/^.*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\|\([:;]\{11,17\}\)\).*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\|\([:;]\{11,17\}\)\).*$/\1 \4/'
+15b
+15c cat datasets/q15data.txt | sed 's/^.*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\|\([:;]\{11,17\}\)\).*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\|\([:;]\{11,17\}\)\).*$/\1 \4/'
+15c cat datasets/q15data.txt | sed 's/^.*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\).*$/\1/'
+15c cat datasets/q15data.txt | sed -ne'{s/^.*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\).*$/\1/;H};${s/.*\([:;]\{11,17\}\).*$/\1/;H};${x;p}'
+15c cat datasets/q15data.txt | sed -ne'{s/.*\([:;]\{11,17\}\).*$/\1/;H};${x;p};${s/^.*\(::\(Harry\|Edna\|Tom\|George\|Phil\)::\).*$/\1/;h};{x;p}'
